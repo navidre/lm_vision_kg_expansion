@@ -1,2 +1,1 @@
-# lm_vision_kg_expansion
-Utilizing Language Models to Expand Vision-based Commonsense Knowledge Graphs
+The code, data, and experiments are going to be availble soon!
