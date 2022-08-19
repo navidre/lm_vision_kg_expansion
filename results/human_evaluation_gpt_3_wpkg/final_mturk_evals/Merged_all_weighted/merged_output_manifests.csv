@@ -1,0 +1,1980 @@
+weight,subject,predicate,object,evaluated_sentence,makes_sense,confidence
+high,rice,in,bowl,It is likely to see rice in bowl.,1.0,0.95
+high,cereal,in,bowl,It is likely to see cereal in bowl.,1.0,0.72
+high,milk,in,bowl,It is likely to see milk in bowl.,1.0,0.95
+high,soup,in,bowl,It is likely to see soup in bowl.,1.0,0.95
+high,fruit,in,bowl,It is likely to see fruit in bowl.,0.0,0.95
+high,vegetable,in,fridge,It is likely to see vegetable in fridge.,1.0,0.95
+mid,cat,in,bowl,It is NOT likely to see cat in bowl.,1.0,0.95
+mid,book,in,bowl,It is NOT likely to see book in bowl.,1.0,0.95
+mid,pencil,in,bowl,It is NOT likely to see pencil in bowl.,0.0,0.95
+mid,paper,in,bowl,It is NOT likely to see paper in bowl.,0.0,0.95
+mid,fork,in,bowl,It is NOT likely to see fork in bowl.,0.0,0.95
+mid,vegetable,in,bathroom,It is NOT likely to see vegetable in bathroom.,1.0,0.95
+high,table,in,room,It is likely to see table in room.,0.0,0.95
+high,chair,in,room,It is likely to see chair in room.,1.0,0.95
+high,bed,in,room,It is likely to see bed in room.,1.0,0.95
+high,dresser,in,room,It is likely to see dresser in room.,1.0,0.95
+high,closet,in,room,It is likely to see closet in room.,0.0,0.95
+mid,car,in,room,It is NOT likely to see car in room.,1.0,0.95
+mid,bus,in,room,It is NOT likely to see bus in room.,1.0,0.95
+mid,train,in,room,It is NOT likely to see train in room.,1.0,0.95
+mid,park,in,room,It is NOT likely to see park in room.,0.0,0.95
+mid,beach,in,room,It is NOT likely to see beach in room.,1.0,0.95
+mid,table,in,garden,It is NOT likely to see table in garden.,1.0,0.95
+high,food,in,can,It is likely to see food in can.,1.0,0.95
+mid,shoes,in,bowl,It is NOT likely to see shoes in bowl.,1.0,0.67
+mid,food,in,bathroom,It is NOT likely to see food in bathroom.,1.0,0.95
+high,flower,in,vase,It is likely to see flower in vase.,1.0,0.95
+high,water,in,vase,It is likely to see water in vase.,1.0,0.95
+high,plant,in,vase,It is likely to see plant in vase.,1.0,0.95
+high,decoration,in,vase,It is likely to see decoration in vase.,1.0,0.95
+high,air,in,vase,It is likely to see air in vase.,0.0,0.95
+mid,coffee,in,vase,It is NOT likely to see coffee in vase.,1.0,0.95
+mid,flower,in,sink,It is NOT likely to see flower in sink.,1.0,0.9
+high,ice,in,snow,It is likely to see ice in snow.,1.0,0.95
+high,wind,in,snow,It is likely to see wind in snow.,1.0,0.95
+high,snowman,in,snow,It is likely to see snowman in snow.,1.0,0.95
+high,pole,in,garden,It is likely to see pole in garden.,1.0,0.65
+mid,bird,in,snow,It is NOT likely to see bird in snow.,0.0,0.95
+mid,banana,in,snow,It is NOT likely to see banana in snow.,1.0,0.95
+mid,house,in,snow,It is NOT likely to see house in snow.,1.0,0.95
+mid,pole,in,sink,It is NOT likely to see pole in sink.,0.0,0.95
+high,train,has,pole,It is likely for train to have pole.,1.0,0.95
+high,building,has,pole,It is likely for building to have pole.,1.0,0.95
+high,house,has,pole,It is likely for house to have pole.,1.0,0.65
+high,car,has,pole,It is likely for car to have pole.,0.0,0.68
+high,bus,has,pole,It is likely for bus to have pole.,0.0,0.95
+high,sidewalk,has,people,It is likely for sidewalk to have people.,1.0,0.68
+mid,hat,has,pole,It is NOT likely for hat to have pole.,1.0,0.95
+mid,drawer,has,pole,It is NOT likely for drawer to have pole.,1.0,0.65
+mid,vase,has,pole,It is NOT likely for vase to have pole.,1.0,0.95
+mid,basket,has,pole,It is NOT likely for basket to have pole.,1.0,0.95
+mid,box,has,pole,It is NOT likely for box to have pole.,0.0,0.95
+mid,sidewalk,has,people,It is NOT likely for sidewalk to have people.,0.0,0.95
+high,head,has,hair,It is likely for head to have hair.,1.0,0.95
+high,face,has,hair,It is likely for face to have hair.,1.0,0.95
+high,scalp,has,hair,It is likely for scalp to have hair.,1.0,0.95
+high,animal,has,hair,It is likely for animal to have hair.,1.0,0.95
+high,person,has,hair,It is likely for person to have hair.,0.0,0.95
+mid,plant,has,hair,It is NOT likely for plant to have hair.,1.0,0.95
+mid,rock,has,hair,It is NOT likely for rock to have hair.,1.0,0.95
+mid,building,has,hair,It is NOT likely for building to have hair.,0.0,0.95
+mid,toy,has,hair,It is NOT likely for toy to have hair.,1.0,0.95
+mid,food,has,hair,It is NOT likely for food to have hair.,1.0,0.95
+mid,face,has,hair,It is NOT likely for face to have hair.,1.0,0.89
+high,airplane,has,wing,It is likely for airplane to have wing.,1.0,0.68
+high,bat,has,wing,It is likely for bat to have wing.,1.0,0.95
+high,bird,has,wing,It is likely for bird to have wing.,0.0,0.68
+high,butterfly,has,wing,It is likely for butterfly to have wing.,1.0,0.68
+high,dragon,has,wing,It is likely for dragon to have wing.,1.0,0.95
+high,plane,has,wings,It is likely for plane to have wings.,1.0,0.95
+mid,boat,has,wing,It is NOT likely for boat to have wing.,1.0,0.8
+mid,train,has,wing,It is NOT likely for train to have wing.,1.0,0.95
+mid,house,has,wing,It is NOT likely for house to have wing.,1.0,0.95
+mid,car,has,wing,It is NOT likely for car to have wing.,1.0,0.95
+mid,bus,has,wing,It is NOT likely for bus to have wing.,1.0,0.95
+mid,plane,has,cat,It is NOT likely for plane to have cat.,0.0,0.95
+high,bike,has,wheel,It is likely for bike to have wheel.,0.0,0.95
+high,motorcycle,has,wheel,It is likely for motorcycle to have wheel.,1.0,0.89
+mid,rectangle,has,wheel,It is NOT likely for rectangle to have wheel.,0.0,0.94
+mid,square,has,wheel,It is NOT likely for square to have wheel.,0.0,0.68
+mid,oval,has,wheel,It is NOT likely for oval to have wheel.,1.0,0.95
+mid,cone,has,wheel,It is NOT likely for cone to have wheel.,0.0,0.78
+high,tree,has,trunk,It is likely for tree to have trunk.,1.0,0.95
+high,elephant,has,trunk,It is likely for elephant to have trunk.,0.0,0.94
+high,garage,has,trunk,It is likely for garage to have trunk.,0.0,0.95
+mid,animal,has,trunk,It is NOT likely for animal to have trunk.,0.0,0.95
+mid,person,has,trunk,It is NOT likely for person to have trunk.,1.0,0.95
+mid,mountain,has,trunk,It is NOT likely for mountain to have trunk.,0.0,0.95
+mid,tree,has,window,It is NOT likely for tree to have window.,0.0,0.95
+high,window,on,building,It is likely to see window on building.,1.0,0.95
+high,door,on,building,It is likely to see door on building.,1.0,0.87
+high,roof,on,building,It is likely to see roof on building.,1.0,0.95
+high,wall,on,building,It is likely to see wall on building.,1.0,0.95
+high,floor,on,building,It is likely to see floor on building.,1.0,0.95
+mid,furniture,on,building,It is NOT likely to see furniture on building.,1.0,0.95
+mid,appliance,on,building,It is NOT likely to see appliance on building.,1.0,0.56
+mid,utensil,on,building,It is NOT likely to see utensil on building.,1.0,0.68
+mid,tool,on,building,It is NOT likely to see tool on building.,0.0,0.95
+mid,food,on,building,It is NOT likely to see food on building.,1.0,0.95
+mid,window,on,number,It is NOT likely to see window on number.,0.0,0.95
+high,stop,on,sign,It is likely to see stop on sign.,1.0,0.95
+high,yield,on,sign,It is likely to see yield on sign.,1.0,0.95
+high,do not enter,on,sign,It is likely to see do not enter on sign.,1.0,0.95
+high,one way,on,sign,It is likely to see one way on sign.,1.0,0.95
+high,no parking,on,sign,It is likely to see no parking on sign.,1.0,0.95
+high,letter,on,train,It is likely to see letter on train.,1.0,0.95
+mid,cat,on,sign,It is NOT likely to see cat on sign.,1.0,0.95
+mid,house,on,sign,It is NOT likely to see house on sign.,1.0,0.95
+mid,bread,on,sign,It is NOT likely to see bread on sign.,1.0,0.93
+mid,milk,on,sign,It is NOT likely to see milk on sign.,0.0,0.93
+mid,water,on,sign,It is NOT likely to see water on sign.,0.0,0.95
+mid,letter,on,number,It is NOT likely to see letter on number.,0.0,0.95
+high,home,on,man,It is likely to see home on man.,0.0,0.95
+high,work,on,man,It is likely to see work on man.,0.0,0.95
+high,school,on,man,It is likely to see school on man.,0.0,0.95
+high,hospital,on,man,It is likely to see hospital on man.,0.0,0.68
+high,church,on,man,It is likely to see church on man.,0.0,0.84
+high,hat,on,baseball cap,It is likely to see hat on baseball cap.,0.0,0.95
+mid,dirt,on,man,It is NOT likely to see dirt on man.,1.0,0.95
+mid,grass,on,man,It is NOT likely to see grass on man.,1.0,0.95
+mid,snow,on,man,It is NOT likely to see snow on man.,1.0,0.95
+mid,air,on,man,It is NOT likely to see air on man.,1.0,0.95
+mid,hat,on,window,It is NOT likely to see hat on window.,1.0,0.95
+high,dish,on,plate,It is likely to see dish on plate.,1.0,0.65
+high,food,on,plate,It is likely to see food on plate.,1.0,0.95
+high,utensil,on,plate,It is likely to see utensil on plate.,1.0,0.72
+high,table,on,plate,It is likely to see table on plate.,0.0,0.95
+high,chair,on,plate,It is likely to see chair on plate.,0.0,0.95
+mid,toothbrush,on,plate,It is NOT likely to see toothbrush on plate.,0.0,0.95
+mid,book,on,plate,It is NOT likely to see book on plate.,1.0,0.95
+mid,lamp,on,plate,It is NOT likely to see lamp on plate.,1.0,0.95
+mid,computer,on,plate,It is NOT likely to see computer on plate.,1.0,0.95
+mid,pencil,on,plate,It is NOT likely to see pencil on plate.,1.0,0.95
+high,hair,on,head,It is likely to see hair on head.,1.0,0.95
+high,glasses,on,head,It is likely to see glasses on head.,1.0,0.95
+high,helmet,on,head,It is likely to see helmet on head.,1.0,0.95
+high,mask,on,head,It is likely to see mask on head.,1.0,0.95
+mid,box,on,head,It is NOT likely to see box on head.,1.0,0.59
+mid,vase,on,head,It is NOT likely to see vase on head.,1.0,0.95
+mid,basket,on,head,It is NOT likely to see basket on head.,0.0,0.94
+mid,hair,on,shoulder,It is NOT likely to see hair on shoulder.,0.0,0.95
+high,vegetable,in,counter,It is likely to see vegetable in counter.,1.0,0.61
+high,vegetable,in,table,It is likely to see vegetable in table.,1.0,0.95
+high,vegetable,in,cupboard,It is likely to see vegetable in cupboard.,0.0,0.57
+high,vegetable,in,sink,It is likely to see vegetable in sink.,1.0,0.95
+mid,vegetable,in,bedroom,It is NOT likely to see vegetable in bedroom.,1.0,0.94
+mid,vegetable,in,living room,It is NOT likely to see vegetable in living room.,0.0,0.76
+mid,vegetable,in,den,It is NOT likely to see vegetable in den.,0.0,0.61
+mid,vegetable,in,attic,It is NOT likely to see vegetable in attic.,0.0,0.54
+high,table,in,house,It is likely to see table in house.,1.0,0.88
+high,table,in,office,It is likely to see table in office.,1.0,0.95
+high,table,in,bedroom,It is likely to see table in bedroom.,1.0,0.94
+high,table,in,living room,It is likely to see table in living room.,0.0,0.52
+mid,table,in,sky,It is NOT likely to see table in sky.,1.0,0.95
+mid,table,in,car,It is NOT likely to see table in car.,1.0,0.7
+mid,table,in,bathroom,It is NOT likely to see table in bathroom.,1.0,0.95
+mid,table,in,kitchen,It is NOT likely to see table in kitchen.,0.0,0.95
+high,food,in,jar,It is likely to see food in jar.,1.0,0.94
+high,food,in,box,It is likely to see food in box.,1.0,0.95
+high,food,in,fridge,It is likely to see food in fridge.,1.0,0.54
+high,food,in,freezer,It is likely to see food in freezer.,1.0,0.95
+mid,food,in,bedroom,It is NOT likely to see food in bedroom.,1.0,0.7
+mid,food,in,closet,It is NOT likely to see food in closet.,1.0,0.55
+mid,food,in,basement,It is NOT likely to see food in basement.,1.0,0.64
+mid,food,in,attic,It is NOT likely to see food in attic.,1.0,0.75
+high,flower,in,pot,It is likely to see flower in pot.,1.0,0.54
+high,flower,in,field,It is likely to see flower in field.,1.0,0.55
+high,flower,in,or meadow,It is likely to see flower in or meadow.,1.0,0.6
+mid,cat,in,vase,It is NOT likely to see cat in vase.,1.0,0.61
+mid,book,in,vase,It is NOT likely to see book in vase.,0.0,0.54
+mid,pencil,in,vase,It is NOT likely to see pencil in vase.,0.0,0.74
+mid,paper,in,vase,It is NOT likely to see paper in vase.,1.0,0.88
+mid,flower,in,oven,It is NOT likely to see flower in oven.,1.0,0.95
+mid,flower,in,book,It is NOT likely to see flower in book.,0.0,0.61
+mid,flower,in,pencil,It is NOT likely to see flower in pencil.,1.0,0.95
+mid,flower,in,phone,It is NOT likely to see flower in phone.,1.0,0.93
+high,water,in,snow,It is likely to see water in snow.,0.0,0.95
+high,air,in,snow,It is likely to see air in snow.,1.0,0.95
+high,pole,in,park,It is likely to see pole in park.,0.0,0.94
+high,pole,in,forest,It is likely to see pole in forest.,1.0,0.54
+high,pole,in,river,It is likely to see pole in river.,1.0,0.95
+high,pole,in,sea,It is likely to see pole in sea.,0.0,0.59
+mid,car,in,snow,It is NOT likely to see car in snow.,0.0,0.56
+mid,beach,in,snow,It is NOT likely to see beach in snow.,0.0,0.95
+mid,pole,in,table,It is NOT likely to see pole in table.,0.0,0.95
+mid,pole,in,chair,It is NOT likely to see pole in chair.,1.0,0.95
+mid,pole,in,book,It is NOT likely to see pole in book.,1.0,0.54
+mid,pole,in,bed,It is NOT likely to see pole in bed.,1.0,0.94
+high,sidewalk,has,cars,It is likely for sidewalk to have cars.,0.0,0.95
+high,sidewalk,has,trees,It is likely for sidewalk to have trees.,1.0,0.93
+high,sidewalk,has,benches,It is likely for sidewalk to have benches.,1.0,0.7
+high,sidewalk,has,lamps,It is likely for sidewalk to have lamps.,1.0,0.95
+mid,sidewalk,has,hat,It is NOT likely for sidewalk to have hat.,1.0,0.95
+mid,sidewalk,has,jacket,It is NOT likely for sidewalk to have jacket.,1.0,0.5
+mid,sidewalk,has,vase,It is NOT likely for sidewalk to have vase.,0.0,0.95
+mid,sidewalk,has,basket,It is NOT likely for sidewalk to have basket.,0.0,0.93
+high,face,has,nose,It is likely for face to have nose.,1.0,0.94
+high,face,has,mouth,It is likely for face to have mouth.,1.0,0.94
+high,face,has,ears,It is likely for face to have ears.,1.0,0.95
+high,face,has,and hair,It is likely for face to have and hair.,1.0,0.94
+mid,face,has,eyes,It is NOT likely for face to have eyes.,1.0,0.68
+mid,face,has,nose,It is NOT likely for face to have nose.,1.0,0.54
+mid,face,has,mouth,It is NOT likely for face to have mouth.,1.0,0.66
+mid,face,has,ears,It is NOT likely for face to have ears.,1.0,0.95
+high,plane,has,engines,It is likely for plane to have engines.,1.0,0.95
+high,plane,has,fuselage,It is likely for plane to have fuselage.,0.0,0.93
+high,plane,has,airport,It is likely for plane to have airport.,0.0,0.95
+high,plane,has,sky,It is likely for plane to have sky.,0.0,0.52
+high,plane,has,clouds,It is likely for plane to have clouds.,0.0,0.93
+high,plane,has,wind,It is likely for plane to have wind.,0.0,0.61
+high,plane,has,sun,It is likely for plane to have sun.,0.0,0.6
+mid,plane,has,house,It is NOT likely for plane to have house.,1.0,0.95
+mid,plane,has,car,It is NOT likely for plane to have car.,0.0,0.95
+mid,plane,has,tree,It is NOT likely for plane to have tree.,1.0,0.85
+mid,plane,has,flower,It is NOT likely for plane to have flower.,0.0,0.95
+high,car,has,wheel,It is likely for car to have wheel.,1.0,0.95
+high,train,has,wheel,It is likely for train to have wheel.,0.0,0.55
+high,bus,has,wheel,It is likely for bus to have wheel.,1.0,0.75
+high,car,has,engine,It is likely for car to have engine.,1.0,0.95
+high,car,has,seat,It is likely for car to have seat.,0.0,0.56
+high,car,has,door,It is likely for car to have door.,1.0,0.94
+high,car,has,mirror,It is likely for car to have mirror.,1.0,0.94
+mid,box,has,wheel,It is NOT likely for box to have wheel.,1.0,0.93
+mid,car,has,airplane,It is NOT likely for car to have airplane.,1.0,0.94
+mid,car,has,bike,It is NOT likely for car to have bike.,1.0,0.95
+mid,car,has,train,It is NOT likely for car to have train.,1.0,0.95
+mid,car,has,bus,It is NOT likely for car to have bus.,0.0,0.61
+mid,car,has,ship,It is NOT likely for car to have ship.,0.0,0.93
+high,car,has,trunk,It is likely for car to have trunk.,1.0,0.61
+high,house,has,trunk,It is likely for house to have trunk.,0.0,0.59
+high,tree,has,leaves,It is likely for tree to have leaves.,0.0,0.74
+high,tree,has,branches,It is likely for tree to have branches.,0.0,0.61
+high,tree,has,bark,It is likely for tree to have bark.,1.0,0.7
+high,tree,has,sap,It is likely for tree to have sap.,1.0,0.94
+mid,house,has,trunk,It is NOT likely for house to have trunk.,1.0,0.94
+mid,car,has,trunk,It is NOT likely for car to have trunk.,1.0,0.94
+mid,tree,has,people,It is NOT likely for tree to have people.,0.0,0.61
+mid,tree,has,rock,It is NOT likely for tree to have rock.,0.0,0.52
+mid,tree,has,hat,It is NOT likely for tree to have hat.,1.0,0.7
+mid,tree,has,box,It is NOT likely for tree to have box.,0.0,0.82
+high,window,on,train,It is likely to see window on train.,1.0,0.75
+high,window,on,house,It is likely to see window on house.,1.0,0.61
+high,window,on,car,It is likely to see window on car.,1.0,0.94
+high,window,on,bus,It is likely to see window on bus.,1.0,0.54
+mid,window,on,people,It is NOT likely to see window on people.,1.0,0.94
+mid,window,on,rock,It is NOT likely to see window on rock.,0.0,0.95
+mid,window,on,tree,It is NOT likely to see window on tree.,1.0,0.9
+mid,window,on,jacket,It is NOT likely to see window on jacket.,1.0,0.75
+high,letter,on,sidewalk,It is likely to see letter on sidewalk.,1.0,0.95
+high,letter,on,track,It is likely to see letter on track.,1.0,0.82
+high,letter,on,street,It is likely to see letter on street.,1.0,0.68
+high,letter,on,building,It is likely to see letter on building.,0.0,0.54
+mid,letter,on,people,It is NOT likely to see letter on people.,1.0,0.94
+mid,letter,on,rock,It is NOT likely to see letter on rock.,1.0,0.82
+mid,letter,on,tree,It is NOT likely to see letter on tree.,0.0,0.76
+mid,letter,on,jacket,It is NOT likely to see letter on jacket.,0.0,0.95
+high,hat,on,fedora,It is likely to see hat on fedora.,0.0,0.53
+high,hat,on,beanie,It is likely to see hat on beanie.,0.0,0.95
+high,hat,on,cowboy hat,It is likely to see hat on cowboy hat.,0.0,0.95
+high,hat,on,sun hat,It is likely to see hat on sun hat.,0.0,0.61
+mid,water,on,man,It is NOT likely to see water on man.,1.0,0.75
+mid,hat,on,book,It is NOT likely to see hat on book.,1.0,0.61
+mid,hat,on,cat,It is NOT likely to see hat on cat.,1.0,0.61
+mid,hat,on,person,It is NOT likely to see hat on person.,1.0,0.54
+mid,hat,on,wall,It is NOT likely to see hat on wall.,1.0,0.54
+high,food,on,apple,It is likely to see food on apple.,1.0,0.95
+high,food,on,banana,It is likely to see food on banana.,0.0,0.95
+high,food,on,orange,It is likely to see food on orange.,1.0,0.64
+high,food,on,grape,It is likely to see food on grape.,1.0,0.95
+high,food,on,strawberry,It is likely to see food on strawberry.,0.0,0.61
+mid,food,on,sink,It is NOT likely to see food on sink.,1.0,0.7
+mid,food,on,counter,It is NOT likely to see food on counter.,1.0,0.94
+mid,food,on,stove,It is NOT likely to see food on stove.,0.0,0.95
+mid,food,on,refrigerator,It is NOT likely to see food on refrigerator.,1.0,0.8
+mid,food,on,table,It is NOT likely to see food on table.,1.0,0.54
+high,hat,on,head,It is likely to see hat on head.,1.0,0.75
+high,hair,on,person,It is likely to see hair on person.,1.0,0.7
+high,hair,on,animal,It is likely to see hair on animal.,0.0,0.95
+high,hair,on,doll,It is likely to see hair on doll.,1.0,0.54
+high,hair,on,toy,It is likely to see hair on toy.,0.0,0.54
+high,hair,on,statue,It is likely to see hair on statue.,1.0,0.75
+mid,window,on,head,It is NOT likely to see window on head.,1.0,0.68
+mid,book,on,head,It is NOT likely to see book on head.,1.0,0.82
+mid,hair,on,leg,It is NOT likely to see hair on leg.,1.0,0.94
+mid,hair,on,foot,It is NOT likely to see hair on foot.,1.0,0.82
+mid,hair,on,arm,It is NOT likely to see hair on arm.,1.0,0.5
+mid,hair,on,hand,It is NOT likely to see hair on hand.,1.0,0.95
+high,station,near,track,It is likely to see station near track.,1.0,0.95
+high,bus,near,track,It is likely to see bus near track.,0.0,0.84
+high,car,near,track,It is likely to see car near track.,1.0,0.58
+high,bike,near,track,It is likely to see bike near track.,0.0,0.52
+high,pedestrian,near,track,It is likely to see pedestrian near track.,0.0,0.51
+high,tree,near,house,It is likely to see tree near house.,1.0,0.95
+high,tree,near,park,It is likely to see tree near park.,1.0,0.5
+high,tree,near,garden,It is likely to see tree near garden.,0.0,0.95
+high,tree,near,farm,It is likely to see tree near farm.,1.0,0.63
+high,tree,near,field,It is likely to see tree near field.,1.0,0.95
+mid,hat,near,track,It is NOT likely to see hat near track.,1.0,0.8
+mid,drawer,near,track,It is NOT likely to see drawer near track.,1.0,0.65
+mid,vase,near,track,It is NOT likely to see vase near track.,1.0,0.54
+mid,basket,near,track,It is NOT likely to see basket near track.,1.0,0.83
+mid,box,near,track,It is NOT likely to see box near track.,0.0,0.63
+mid,tree,near,car,It is NOT likely to see tree near car.,1.0,0.94
+mid,tree,near,house,It is NOT likely to see tree near house.,1.0,0.54
+mid,tree,near,building,It is NOT likely to see tree near building.,1.0,0.61
+mid,tree,near,street,It is NOT likely to see tree near street.,0.0,0.53
+mid,tree,near,sidewalk,It is NOT likely to see tree near sidewalk.,1.0,0.95
+high,taxi,near,track,It is likely to see taxi near track.,0.0,0.95
+high,bicycle,near,track,It is likely to see bicycle near track.,1.0,0.56
+high,train,near,track,It is likely to see train near track.,1.0,0.52
+high,window,near,door,It is likely to see window near door.,1.0,0.58
+high,window,near,wall,It is likely to see window near wall.,1.0,0.95
+high,window,near,house,It is likely to see window near house.,1.0,0.94
+high,window,near,building,It is likely to see window near building.,1.0,0.59
+high,window,near,car,It is likely to see window near car.,1.0,0.91
+mid,school,near,track,It is NOT likely to see school near track.,1.0,0.95
+mid,house,near,track,It is NOT likely to see house near track.,1.0,0.54
+mid,car,near,track,It is NOT likely to see car near track.,1.0,0.6
+mid,park,near,track,It is NOT likely to see park near track.,1.0,0.61
+mid,river,near,track,It is NOT likely to see river near track.,0.0,0.6
+mid,window,near,door,It is NOT likely to see window near door.,1.0,0.84
+mid,window,near,table,It is NOT likely to see window near table.,0.0,0.95
+mid,window,near,chair,It is NOT likely to see window near chair.,1.0,0.51
+mid,window,near,bed,It is NOT likely to see window near bed.,0.0,0.95
+mid,window,near,closet,It is NOT likely to see window near closet.,1.0,0.56
+high,pole,near,train,It is likely to see pole near train.,0.0,0.95
+high,pole,near,building,It is likely to see pole near building.,1.0,0.95
+high,pole,near,house,It is likely to see pole near house.,1.0,0.54
+high,pole,near,car,It is likely to see pole near car.,1.0,0.95
+high,pole,near,bus,It is likely to see pole near bus.,1.0,0.95
+mid,home,near,track,It is NOT likely to see home near track.,1.0,0.89
+mid,work,near,track,It is NOT likely to see work near track.,0.0,0.95
+mid,grocery store,near,track,It is NOT likely to see grocery store near track.,0.0,0.7
+mid,bank,near,track,It is NOT likely to see bank near track.,0.0,0.51
+mid,pole,near,table,It is NOT likely to see pole near table.,1.0,0.86
+mid,pole,near,chair,It is NOT likely to see pole near chair.,1.0,0.88
+mid,pole,near,lamp,It is NOT likely to see pole near lamp.,0.0,0.5
+mid,pole,near,door,It is NOT likely to see pole near door.,1.0,0.68
+mid,pole,near,house,It is NOT likely to see pole near house.,1.0,0.57
+high,house,near,sidewalk,It is likely to see house near sidewalk.,1.0,0.54
+high,apartment,near,sidewalk,It is likely to see apartment near sidewalk.,0.0,0.87
+high,building,near,sidewalk,It is likely to see building near sidewalk.,1.0,0.72
+high,store,near,sidewalk,It is likely to see store near sidewalk.,0.0,0.95
+high,restaurant,near,sidewalk,It is likely to see restaurant near sidewalk.,1.0,0.95
+mid,house,near,sidewalk,It is NOT likely to see house near sidewalk.,1.0,0.81
+mid,school,near,sidewalk,It is NOT likely to see school near sidewalk.,0.0,0.94
+mid,hospital,near,sidewalk,It is NOT likely to see hospital near sidewalk.,0.0,0.95
+mid,church,near,sidewalk,It is NOT likely to see church near sidewalk.,1.0,0.95
+mid,park,near,sidewalk,It is NOT likely to see park near sidewalk.,1.0,0.75
+mid,window,near,curtain,It is NOT likely to see window near curtain.,0.0,0.95
+mid,window,near,sink,It is NOT likely to see window near sink.,1.0,0.51
+high,wall,near,door,It is likely to see wall near door.,1.0,0.95
+high,handle,near,door,It is likely to see handle near door.,0.0,0.93
+high,knob,near,door,It is likely to see knob near door.,0.0,0.53
+high,frame,near,door,It is likely to see frame near door.,1.0,0.57
+high,doorstop,near,door,It is likely to see doorstop near door.,1.0,0.95
+mid,table,near,door,It is NOT likely to see table near door.,1.0,0.51
+mid,chair,near,door,It is NOT likely to see chair near door.,1.0,0.63
+mid,closet,near,door,It is NOT likely to see closet near door.,1.0,0.65
+mid,dresser,near,door,It is NOT likely to see dresser near door.,1.0,0.95
+mid,window,near,hat,It is NOT likely to see window near hat.,0.0,0.68
+mid,window,near,drawer,It is NOT likely to see window near drawer.,0.0,0.5
+mid,window,near,vase,It is NOT likely to see window near vase.,0.0,0.91
+mid,window,near,basket,It is NOT likely to see window near basket.,1.0,0.51
+mid,window,near,box,It is NOT likely to see window near box.,1.0,0.67
+high,sidewalk,near,street,It is likely to see sidewalk near street.,0.0,0.88
+high,house,near,street,It is likely to see house near street.,0.0,0.95
+high,building,near,street,It is likely to see building near street.,0.0,0.54
+high,car,near,street,It is likely to see car near street.,1.0,0.95
+high,bus,near,street,It is likely to see bus near street.,1.0,0.54
+mid,school,near,street,It is NOT likely to see school near street.,1.0,0.73
+mid,park,near,street,It is NOT likely to see park near street.,1.0,0.54
+mid,river,near,street,It is NOT likely to see river near street.,1.0,0.95
+mid,house,near,street,It is NOT likely to see house near street.,1.0,0.57
+mid,mountain,near,street,It is NOT likely to see mountain near street.,1.0,0.95
+mid,window,near,cabinet,It is NOT likely to see window near cabinet.,0.0,0.93
+mid,window,near,refrigerator,It is NOT likely to see window near refrigerator.,1.0,0.95
+high,flower,near,tree,It is likely to see flower near tree.,1.0,0.61
+high,bush,near,tree,It is likely to see bush near tree.,0.0,0.73
+high,garden,near,tree,It is likely to see garden near tree.,1.0,0.95
+high,park,near,tree,It is likely to see park near tree.,1.0,0.95
+high,house,near,tree,It is likely to see house near tree.,0.0,0.9
+high,rock,near,mountain,It is likely to see rock near mountain.,0.0,0.88
+high,rock,near,river,It is likely to see rock near river.,0.0,0.95
+high,rock,near,stream,It is likely to see rock near stream.,1.0,0.94
+high,rock,near,cliff,It is likely to see rock near cliff.,1.0,0.95
+high,rock,near,boulder,It is likely to see rock near boulder.,1.0,0.58
+mid,house,near,tree,It is NOT likely to see house near tree.,0.0,0.95
+mid,car,near,tree,It is NOT likely to see car near tree.,1.0,0.95
+mid,people,near,tree,It is NOT likely to see people near tree.,1.0,0.58
+mid,lamp,near,tree,It is NOT likely to see lamp near tree.,1.0,0.95
+mid,table,near,tree,It is NOT likely to see table near tree.,0.0,0.5
+mid,rock,near,near people,It is NOT likely to see rock near people.,1.0,0.95
+mid,rock,near,near water,It is NOT likely to see rock near water.,1.0,0.95
+mid,rock,near,near fire,It is NOT likely to see rock near fire.,1.0,0.65
+mid,rock,near,near air,It is NOT likely to see rock near air.,1.0,0.95
+mid,rock,near,near dirt,It is NOT likely to see rock near dirt.,0.0,0.74
+high,car,near,truck,It is likely to see car near truck.,1.0,0.57
+high,car,near,motorcycle,It is likely to see car near motorcycle.,0.0,0.95
+high,car,near,bicycle,It is likely to see car near bicycle.,1.0,0.63
+high,car,near,scooter,It is likely to see car near scooter.,1.0,0.93
+high,car,near,skateboard,It is likely to see car near skateboard.,1.0,0.63
+mid,school,near,tree,It is NOT likely to see school near tree.,0.0,0.56
+mid,store,near,tree,It is NOT likely to see store near tree.,1.0,0.8
+mid,hospital,near,tree,It is NOT likely to see hospital near tree.,1.0,0.65
+mid,car,near,bike,It is NOT likely to see car near bike.,1.0,0.85
+mid,car,near,boat,It is NOT likely to see car near boat.,1.0,0.95
+mid,car,near,house,It is NOT likely to see car near house.,1.0,0.63
+mid,car,near,or person,It is NOT likely to see car near or person.,1.0,0.94
+high,hair,near,head,It is likely to see hair near head.,0.0,0.95
+high,hat,near,head,It is likely to see hat near head.,0.0,0.56
+high,ear,near,head,It is likely to see ear near head.,1.0,0.61
+high,eye,near,head,It is likely to see eye near head.,0.0,0.95
+high,nose,near,head,It is likely to see nose near head.,1.0,0.54
+mid,feet,near,head,It is NOT likely to see feet near head.,0.0,0.6
+mid,legs,near,head,It is NOT likely to see legs near head.,1.0,0.95
+mid,hands,near,head,It is NOT likely to see hands near head.,1.0,0.72
+mid,arms,near,head,It is NOT likely to see arms near head.,1.0,0.54
+mid,shoulders,near,head,It is NOT likely to see shoulders near head.,0.0,0.69
+mid,tree,near,moon,It is NOT likely to see tree near moon.,1.0,0.56
+mid,tree,near,computer,It is NOT likely to see tree near computer.,1.0,0.95
+mid,tree,near,book,It is NOT likely to see tree near book.,0.0,0.5
+mid,tree,near,cat,It is NOT likely to see tree near cat.,1.0,0.61
+high,sign,near,pole,It is likely to see sign near pole.,1.0,0.57
+high,flag,near,pole,It is likely to see flag near pole.,1.0,0.95
+high,light,near,pole,It is likely to see light near pole.,1.0,0.95
+high,ceiling,near,pole,It is likely to see ceiling near pole.,1.0,0.57
+high,banner,near,pole,It is likely to see banner near pole.,0.0,0.69
+high,light,near,lamp,It is likely to see light near lamp.,1.0,0.95
+high,light,near,flashlight,It is likely to see light near flashlight.,1.0,0.84
+high,light,near,candle,It is likely to see light near candle.,1.0,0.95
+high,light,near,street light,It is likely to see light near streetlight.,1.0,0.95
+high,light,near,headlights,It is likely to see light near headlights.,1.0,0.72
+mid,beach,near,pole,It is NOT likely to see beach near pole.,1.0,0.57
+mid,sun,near,pole,It is NOT likely to see sun near pole.,0.0,0.95
+mid,heat,near,pole,It is NOT likely to see heat near pole.,1.0,0.95
+mid,sand,near,pole,It is NOT likely to see sand near pole.,1.0,0.57
+mid,water,near,pole,It is NOT likely to see water near pole.,0.0,0.95
+mid,light,near,fire,It is NOT likely to see light near fire.,1.0,0.61
+mid,light,near,lamp,It is NOT likely to see light near lamp.,0.0,0.95
+mid,light,near,sunlight,It is NOT likely to see light near sunlight.,1.0,0.58
+mid,light,near,stars,It is NOT likely to see light near stars.,0.0,0.5
+mid,light,near,moon,It is NOT likely to see light near moon.,0.0,0.6
+high,house,under,roof,It is likely to see house under roof.,1.0,0.95
+high,store,under,roof,It is likely to see store under roof.,0.0,0.5
+high,office,under,roof,It is likely to see office under roof.,0.0,0.54
+high,garage,under,roof,It is likely to see garage under roof.,0.0,0.52
+high,shed,under,roof,It is likely to see shed under roof.,1.0,0.57
+high,door,under,roof,It is likely to see door under roof.,1.0,0.95
+high,door,under,sky,It is likely to see door under sky.,0.0,0.95
+high,door,under,ceiling,It is likely to see door under ceiling.,1.0,0.95
+high,door,under,frame,It is likely to see door under frame.,1.0,0.8
+high,door,under,wall,It is likely to see door under wall.,1.0,0.95
+mid,car,under,roof,It is NOT likely to see car under roof.,1.0,0.91
+mid,snow,under,roof,It is NOT likely to see snow under roof.,1.0,0.79
+mid,wind,under,roof,It is NOT likely to see wind under roof.,0.0,0.9
+mid,rain,under,roof,It is NOT likely to see rain under roof.,1.0,0.89
+mid,sun,under,roof,It is NOT likely to see sun under roof.,1.0,0.56
+mid,door,under,window,It is NOT likely to see door under window.,0.0,0.95
+mid,door,under,table,It is NOT likely to see door under table.,1.0,0.86
+mid,door,under,rug,It is NOT likely to see door under rug.,1.0,0.95
+mid,door,under,curtain,It is NOT likely to see door under curtain.,0.0,0.95
+mid,door,under,picture,It is NOT likely to see door under picture.,1.0,0.95
+high,sink,under,counter,It is likely to see sink under counter.,0.0,0.79
+high,stove,under,counter,It is likely to see stove under counter.,0.0,0.65
+high,oven,under,counter,It is likely to see oven under counter.,0.0,0.51
+high,fridge,under,counter,It is likely to see fridge under counter.,1.0,0.95
+high,cupboard,under,counter,It is likely to see cupboard under counter.,0.0,0.79
+high,cabinet,under,microwave,It is likely to see cabinet under microwave.,1.0,0.95
+high,cabinet,under,oven,It is likely to see cabinet under oven.,1.0,0.95
+high,cabinet,under,sink,It is likely to see cabinet under sink.,0.0,0.51
+high,cabinet,under,counter,It is likely to see cabinet under counter.,1.0,0.81
+high,cabinet,under,dishwasher,It is likely to see cabinet under dishwasher.,1.0,0.57
+mid,sink,under,counter,It is NOT likely to see sink under counter.,1.0,0.94
+mid,table,under,counter,It is NOT likely to see table under counter.,1.0,0.64
+mid,chair,under,counter,It is NOT likely to see chair under counter.,0.0,0.5
+mid,person,under,counter,It is NOT likely to see person under counter.,1.0,0.95
+mid,book,under,counter,It is NOT likely to see book under counter.,0.0,0.95
+mid,cabinet,under,sink,It is NOT likely to see cabinet under sink.,0.0,0.73
+mid,cabinet,under,window,It is NOT likely to see cabinet under window.,0.0,0.53
+mid,cabinet,under,bed,It is NOT likely to see cabinet under bed.,1.0,0.57
+mid,cabinet,under,picture,It is NOT likely to see cabinet under picture.,0.0,0.95
+mid,cabinet,under,door,It is NOT likely to see cabinet under door.,0.0,0.95
+high,sidewalk,under,sky,It is likely to see sidewalk under sky.,0.0,0.53
+high,sidewalk,under,clouds,It is likely to see sidewalk under clouds.,0.0,0.51
+high,sidewalk,under,sun,It is likely to see sidewalk under sun.,1.0,0.86
+high,sidewalk,under,air,It is likely to see sidewalk under air.,0.0,0.95
+high,sidewalk,under,space,It is likely to see sidewalk under space.,1.0,0.95
+mid,ice,under,roof,It is NOT likely to see ice under roof.,0.0,0.53
+mid,sidewalk,under,house,It is NOT likely to see sidewalk under house.,1.0,0.95
+mid,sidewalk,under,car,It is NOT likely to see sidewalk under car.,1.0,0.95
+mid,sidewalk,under,sky,It is NOT likely to see sidewalk under sky.,1.0,0.95
+mid,sidewalk,under,cloud,It is NOT likely to see sidewalk under cloud.,1.0,0.59
+mid,sidewalk,under,sun,It is NOT likely to see sidewalk under sun.,1.0,0.51
+high,car,under,engine,It is likely to see car under engine.,0.0,0.95
+high,bus,under,engine,It is likely to see bus under engine.,0.0,0.73
+high,train,under,engine,It is likely to see train under engine.,0.0,0.95
+high,truck,under,engine,It is likely to see truck under engine.,1.0,0.65
+high,motorcycle,under,engine,It is likely to see motorcycle under engine.,1.0,0.57
+high,wheel,under,car,It is likely to see wheel under car.,0.0,0.89
+high,wheel,under,bus,It is likely to see wheel under bus.,0.0,0.95
+high,wheel,under,train,It is likely to see wheel under train.,1.0,0.51
+high,wheel,under,bike,It is likely to see wheel under bike.,0.0,0.7
+high,wheel,under,airplane,It is likely to see wheel under airplane.,0.0,0.55
+mid,people,under,engine,It is NOT likely to see people under engine.,1.0,0.66
+mid,animal,under,engine,It is NOT likely to see animal under engine.,0.0,0.65
+mid,rock,under,engine,It is NOT likely to see rock under engine.,1.0,0.56
+mid,tree,under,engine,It is NOT likely to see tree under engine.,1.0,0.95
+mid,house,under,engine,It is NOT likely to see house under engine.,1.0,0.95
+mid,wheel,under,table,It is NOT likely to see wheel under table.,1.0,0.95
+mid,wheel,under,ground,It is NOT likely to see wheel underground.,1.0,0.65
+mid,wheel,under,sky,It is NOT likely to see wheel under sky.,0.0,0.95
+mid,wheel,under,house,It is NOT likely to see wheel under house.,0.0,0.86
+mid,wheel,under,car,It is NOT likely to see wheel under car.,0.0,0.93
+high,water,under,sink,It is likely to see water under sink.,1.0,0.95
+high,soap,under,sink,It is likely to see soap under sink.,1.0,0.66
+high,towel,under,sink,It is likely to see towel under sink.,1.0,0.95
+high,cleaning supplies,under,sink,It is likely to see cleaning supplies under sink.,0.0,0.95
+high,garbage can,under,sink,It is likely to see garbage can under sink.,0.0,0.59
+high,tile,under,ceiling,It is likely to see tile under ceiling.,1.0,0.95
+high,tile,under,roof,It is likely to see tile under roof.,1.0,0.65
+high,tile,under,sky,It is likely to see tile under sky.,1.0,0.89
+high,tile,under,sun,It is likely to see tile under sun.,0.0,0.95
+high,tile,under,stars,It is likely to see tile under stars.,1.0,0.51
+mid,towel,under,sink,It is NOT likely to see towel under sink.,1.0,0.61
+mid,clothes,under,sink,It is NOT likely to see clothes under sink.,1.0,0.95
+mid,book,under,sink,It is NOT likely to see book under sink.,1.0,0.95
+mid,pen,under,sink,It is NOT likely to see pen under sink.,1.0,0.95
+mid,paper,under,sink,It is NOT likely to see paper under sink.,1.0,0.63
+mid,tile,under,sky,It is NOT likely to see tile under sky.,1.0,0.63
+mid,tile,under,mountain,It is NOT likely to see tile under mountain.,1.0,0.95
+mid,tile,under,ceiling,It is NOT likely to see tile under ceiling.,1.0,0.86
+mid,tile,under,roof,It is NOT likely to see tile under roof.,1.0,0.65
+mid,tile,under,,It is NOT likely to see tile under Nan.,1.0,0.52
+high,book,under,shelf,It is likely to see book under shelf.,0.0,0.53
+high,can,under,shelf,It is likely to see can under shelf.,0.0,0.84
+high,jar,under,shelf,It is likely to see jar under shelf.,1.0,0.95
+high,cup,under,shelf,It is likely to see cup under shelf.,0.0,0.87
+high,plate,under,shelf,It is likely to see plate under shelf.,1.0,0.61
+mid,book,under,shelf,It is NOT likely to see book under shelf.,0.0,0.88
+mid,plate,under,shelf,It is NOT likely to see plate under shelf.,0.0,0.88
+mid,fork,under,shelf,It is NOT likely to see fork under shelf.,1.0,0.93
+mid,spoon,under,shelf,It is NOT likely to see spoon under shelf.,0.0,0.59
+mid,pan,under,shelf,It is NOT likely to see pan under shelf.,1.0,0.61
+mid,tile,under,carpet,It is NOT likely to see tile under carpet.,1.0,0.89
+mid,tile,under,furniture,It is NOT likely to see tile under furniture.,1.0,0.95
+high,stop,under,sign,It is likely to see stop under sign.,0.0,0.51
+high,yield,under,sign,It is likely to see yield under sign.,0.0,0.68
+high,do not enter,under,sign,It is likely to see do not enter under sign.,0.0,0.95
+high,one way,under,sign,It is likely to see one way under sign.,1.0,0.91
+high,no parking,under,sign,It is likely to see no parking under sign.,0.0,0.95
+high,sidewalk,under,grass,It is likely to see sidewalk under grass.,0.0,0.5
+high,sidewalk,under,trees,It is likely to see sidewalk under trees.,1.0,0.63
+mid,window,under,sign,It is NOT likely to see window under sign.,1.0,0.65
+mid,sky,under,sign,It is NOT likely to see sky under sign.,1.0,0.54
+mid,house,under,sign,It is NOT likely to see house under sign.,1.0,0.89
+mid,wall,under,sign,It is NOT likely to see wall under sign.,1.0,0.95
+mid,door,under,sign,It is NOT likely to see door under sign.,1.0,0.95
+mid,sidewalk,under,moon,It is NOT likely to see sidewalk under moon.,0.0,0.95
+high,moon,under,light,It is likely to see moon under light.,1.0,0.57
+high,sun,under,light,It is likely to see sun under light.,1.0,0.53
+high,lamp,under,light,It is likely to see lamp under light.,1.0,0.57
+high,light bulb,under,light,It is likely to see light bulb under light.,1.0,0.63
+high,flashlight,under,light,It is likely to see flashlight under light.,1.0,0.54
+high,table,under,chair,It is likely to see table under chair.,1.0,0.95
+high,table,under,lamp,It is likely to see table under lamp.,1.0,0.54
+high,table,under,book,It is likely to see table under book.,1.0,0.57
+high,table,under,computer,It is likely to see table under computer.,1.0,0.95
+high,table,under,phone,It is likely to see table under phone.,1.0,0.95
+mid,people,under,light,It is NOT likely to see people under light.,0.0,0.7
+mid,car,under,light,It is NOT likely to see car under light.,1.0,0.95
+mid,building,under,light,It is NOT likely to see building under light.,1.0,0.57
+mid,table,under,light,It is NOT likely to see table under light.,1.0,0.66
+mid,lamp,under,light,It is NOT likely to see lamp under light.,0.0,0.5
+mid,table,under,ceiling,It is NOT likely to see table under ceiling.,0.0,0.64
+mid,table,under,sky,It is NOT likely to see table under sky.,1.0,0.61
+mid,table,under,sun,It is NOT likely to see table under sun.,0.0,0.9
+mid,table,under,clouds,It is NOT likely to see table under clouds.,0.0,0.88
+mid,table,under,stars,It is NOT likely to see table under stars.,1.0,0.95
+high,shirt,under,arm,It is likely to see shirt under arm.,1.0,0.66
+high,blouse,under,arm,It is likely to see blouse under arm.,0.0,0.82
+high,sweater,under,arm,It is likely to see sweater under arm.,0.0,0.95
+high,jacket,under,arm,It is likely to see jacket under arm.,1.0,0.57
+high,coat,under,arm,It is likely to see coat under arm.,1.0,0.54
+high,pant,under,Shirt,It is likely to see pant under Shirt.,0.0,0.63
+high,pant,under,blouse,It is likely to see pant under blouse.,1.0,0.73
+high,pant,under,dress,It is likely to see pant under dress.,0.0,0.95
+high,pant,under,sweater,It is likely to see pant under sweater.,1.0,0.58
+high,pant,under,jacket,It is likely to see pant under jacket.,1.0,0.95
+mid,pillow,under,arm,It is NOT likely to see pillow under arm.,1.0,0.63
+mid,cat,under,arm,It is NOT likely to see cat under arm.,1.0,0.57
+mid,book,under,arm,It is NOT likely to see book under arm.,0.0,0.53
+mid,phone,under,arm,It is NOT likely to see phone under arm.,1.0,0.63
+mid,pen,under,arm,It is NOT likely to see pen under arm.,0.0,0.67
+mid,pant,under,clouds,It is NOT likely to see pant under clouds.,0.0,0.84
+mid,pant,under,sky,It is NOT likely to see pant under sky.,1.0,0.95
+mid,pant,under,ceiling,It is NOT likely to see pant under ceiling.,0.0,0.81
+mid,pant,under,roof,It is NOT likely to see pant under roof.,1.0,0.51
+mid,pant,under,sun,It is NOT likely to see pant under sun.,1.0,0.95
+high,snow,under,mountain,It is likely to see snow under mountain.,0.0,0.95
+high,snow,under,sky,It is likely to see snow under sky.,1.0,0.95
+high,snow,under,cloud,It is likely to see snow under cloud.,0.0,0.95
+high,snow,under,air,It is likely to see snow under air.,0.0,0.95
+high,snow,under,sun,It is likely to see snow under sun.,1.0,0.95
+mid,paper,under,arm,It is NOT likely to see paper under arm.,1.0,0.64
+mid,computer,under,arm,It is NOT likely to see computer under arm.,0.0,0.51
+mid,snow,under,sky,It is NOT likely to see snow under sky.,1.0,0.54
+mid,snow,under,airplane,It is NOT likely to see snow under airplane.,1.0,0.95
+mid,snow,under,sun,It is NOT likely to see snow under sun.,0.0,0.5
+mid,snow,under,star,It is NOT likely to see snow under star.,1.0,0.95
+high,train,behind,person,It is likely to see train behind person.,1.0,0.95
+high,sidewalk,behind,person,It is likely to see sidewalk behind person.,1.0,0.63
+high,track,behind,person,It is likely to see track behind person.,0.0,0.95
+high,street,behind,person,It is likely to see street behind person.,1.0,0.51
+high,building,behind,person,It is likely to see building behind person.,1.0,0.95
+high,sign,behind,stop,It is likely to see sign behind stop.,1.0,0.51
+high,sign,behind,yield,It is likely to see sign behind yield.,1.0,0.51
+high,sign,behind,do not enter,It is likely to see sign behind do not enter.,1.0,0.56
+high,sign,behind,one way,It is likely to see sign behind one way.,0.0,0.64
+high,sign,behind,no parking,It is likely to see sign behind no parking.,0.0,0.95
+mid,hat,behind,person,It is NOT likely to see hat behind person.,0.0,0.63
+mid,drawer,behind,person,It is NOT likely to see drawer behind person.,0.0,0.95
+mid,vase,behind,person,It is NOT likely to see vase behind person.,0.0,0.77
+mid,basket,behind,person,It is NOT likely to see basket behind person.,1.0,0.54
+mid,box,behind,person,It is NOT likely to see box behind person.,1.0,0.57
+mid,sign,behind,car,It is NOT likely to see sign behind car.,0.0,0.53
+mid,sign,behind,house,It is NOT likely to see sign behind house.,0.0,0.95
+mid,sign,behind,bike,It is NOT likely to see sign behind bike.,1.0,0.53
+mid,sign,behind,person,It is NOT likely to see sign behind person.,0.0,0.93
+mid,sign,behind,animal,It is NOT likely to see sign behind animal.,0.0,0.76
+high,spine,behind,arm,It is likely to see spine behind arm.,1.0,0.67
+high,shoulder,behind,arm,It is likely to see shoulder behind arm.,1.0,0.63
+high,chest,behind,arm,It is likely to see chest behind arm.,1.0,0.51
+high,stomach,behind,arm,It is likely to see stomach behind arm.,1.0,0.62
+high,pelvis,behind,arm,It is likely to see pelvis behind arm.,1.0,0.93
+high,tree,behind,house,It is likely to see tree behind house.,1.0,0.61
+high,tree,behind,building,It is likely to see tree behind building.,1.0,0.63
+high,tree,behind,fence,It is likely to see tree behind fence.,0.0,0.75
+high,tree,behind,sidewalk,It is likely to see tree behind sidewalk.,1.0,0.69
+high,tree,behind,street,It is likely to see tree behind street.,1.0,0.51
+mid,eye,behind,arm,It is NOT likely to see eye behind arm.,1.0,0.94
+mid,nose,behind,arm,It is NOT likely to see nose behind arm.,1.0,0.59
+mid,mouth,behind,arm,It is NOT likely to see mouth behind arm.,1.0,0.83
+mid,chin,behind,arm,It is NOT likely to see chin behind arm.,1.0,0.66
+mid,ear,behind,arm,It is NOT likely to see ear behind arm.,0.0,0.8
+mid,tree,behind,house,It is NOT likely to see tree behind house.,0.0,0.95
+mid,tree,behind,school,It is NOT likely to see tree behind school.,1.0,0.91
+mid,tree,behind,mountain,It is NOT likely to see tree behind mountain.,0.0,0.95
+mid,tree,behind,sun,It is NOT likely to see tree behind sun.,1.0,0.95
+mid,tree,behind,moon,It is NOT likely to see tree behind moon.,0.0,0.6
+high,house,behind,dog,It is likely to see house behind dog.,1.0,0.95
+high,backyard,behind,dog,It is likely to see backyard behind dog.,1.0,0.95
+high,fence,behind,dog,It is likely to see fence behind dog.,1.0,0.51
+high,door,behind,dog,It is likely to see door behind dog.,1.0,0.95
+high,family,behind,dog,It is likely to see family behind dog.,1.0,0.51
+mid,cat,behind,dog,It is NOT likely to see cat behind dog.,1.0,0.95
+mid,bird,behind,dog,It is NOT likely to see bird behind dog.,0.0,0.9
+mid,rat,behind,dog,It is NOT likely to see rat behind dog.,1.0,0.9
+mid,snake,behind,dog,It is NOT likely to see snake behind dog.,1.0,0.95
+mid,hamster,behind,dog,It is NOT likely to see hamster behind dog.,1.0,0.95
+mid,tree,behind,park,It is NOT likely to see tree behind park.,1.0,0.63
+mid,tree,behind,hospital,It is NOT likely to see tree behind hospital.,0.0,0.95
+mid,tree,behind,beach,It is NOT likely to see tree behind beach.,1.0,0.94
+high,company,behind,logo,It is likely to see company behind logo.,1.0,0.95
+high,product,behind,logo,It is likely to see product behind logo.,0.0,0.95
+high,service,behind,logo,It is likely to see service behind logo.,0.0,0.94
+high,brand,behind,logo,It is likely to see brand behind logo.,0.0,0.65
+high,website,behind,logo,It is likely to see website behind logo.,1.0,0.66
+mid,poster,behind,logo,It is NOT likely to see poster behind logo.,0.0,0.95
+mid,board,behind,logo,It is NOT likely to see board behind logo.,1.0,0.87
+mid,wall,behind,logo,It is NOT likely to see wall behind logo.,1.0,0.63
+mid,door,behind,logo,It is NOT likely to see door behind logo.,1.0,0.95
+mid,ground,behind,logo,It is NOT likely to see ground behind logo.,0.0,0.87
+mid,tree,behind,car,It is NOT likely to see tree behind car.,0.0,0.55
+mid,tree,behind,table,It is NOT likely to see tree behind table.,1.0,0.51
+mid,tree,behind,piece of paper,It is NOT likely to see tree behind piece of paper.,1.0,0.56
+high,train,behind,boy,It is likely to see train behind boy.,0.0,0.53
+high,sidewalk,behind,boy,It is likely to see sidewalk behind boy.,1.0,0.53
+high,track,behind,boy,It is likely to see track behind boy.,1.0,0.95
+high,street,behind,boy,It is likely to see street behind boy.,1.0,0.6
+high,building,behind,boy,It is likely to see building behind boy.,1.0,0.95
+mid,school,behind,boy,It is NOT likely to see school behind boy.,0.0,0.57
+mid,house,behind,boy,It is NOT likely to see house behind boy.,0.0,0.94
+mid,sky,behind,boy,It is NOT likely to see sky behind boy.,1.0,0.93
+mid,sun,behind,boy,It is NOT likely to see sun behind boy.,0.0,0.79
+mid,moon,behind,boy,It is NOT likely to see moon behind boy.,1.0,0.7
+mid,tree,behind,building,It is NOT likely to see tree behind building.,0.0,0.95
+high,plant,behind,animal,It is likely to see plant behind animal.,0.0,0.95
+high,water,behind,animal,It is likely to see water behind animal.,1.0,0.57
+high,air,behind,animal,It is likely to see air behind animal.,1.0,0.63
+high,land,behind,animal,It is likely to see land behind animal.,1.0,0.94
+high,food,behind,animal,It is likely to see food behind animal.,1.0,0.51
+mid,plant,behind,animal,It is NOT likely to see plant behind animal.,1.0,0.61
+mid,object,behind,animal,It is NOT likely to see object behind animal.,0.0,0.95
+mid,person,behind,animal,It is NOT likely to see person behind animal.,0.0,0.61
+mid,another animal,behind,animal,It is NOT likely to see another animal behind animal.,1.0,0.56
+mid,air,behind,animal,It is NOT likely to see air behind animal.,0.0,0.9
+mid,tree,behind,flowers,It is NOT likely to see tree behind flowers.,0.0,0.54
+mid,tree,behind,cathedral,It is NOT likely to see tree behind cathedral.,1.0,0.95
+mid,tree,behind,apartment,It is NOT likely to see tree behind apartment.,0.0,0.5
+mid,tree,behind,bridge,It is NOT likely to see tree behind bridge.,1.0,0.63
+high,door,behind,woman,It is likely to see door behind woman.,1.0,0.95
+high,window,behind,woman,It is likely to see window behind woman.,1.0,0.95
+high,car,behind,woman,It is likely to see car behind woman.,1.0,0.58
+high,house,behind,woman,It is likely to see house behind woman.,0.0,0.79
+high,building,behind,woman,It is likely to see building behind woman.,1.0,0.95
+high,door,behind,house,It is likely to see door behind house.,1.0,0.65
+high,door,behind,room,It is likely to see door behind room.,0.0,0.58
+high,door,behind,closet,It is likely to see door behind closet.,0.0,0.68
+high,door,behind,bathroom,It is likely to see door behind bathroom.,1.0,0.63
+high,door,behind,bedroom,It is likely to see door behind bedroom.,0.0,0.95
+mid,wall,behind,woman,It is NOT likely to see wall behind woman.,0.0,0.54
+mid,man,behind,woman,It is NOT likely to see man behind woman.,0.0,0.95
+mid,cat,behind,woman,It is NOT likely to see cat behind woman.,1.0,0.95
+mid,door,behind,woman,It is NOT likely to see door behind woman.,1.0,0.84
+mid,curtain,behind,woman,It is NOT likely to see curtain behind woman.,1.0,0.95
+mid,door,behind,window,It is NOT likely to see door behind window.,1.0,0.51
+mid,door,behind,box,It is NOT likely to see door behind box.,0.0,0.7
+mid,door,behind,people,It is NOT likely to see door behind people.,0.0,0.95
+mid,door,behind,basket,It is NOT likely to see door behind basket.,1.0,0.69
+mid,door,behind,vase,It is NOT likely to see door behind vase.,1.0,0.64
+high,cat,behind,tail,It is likely to see cat behind tail.,1.0,0.78
+high,dog,behind,tail,It is likely to see dog behind tail.,0.0,0.72
+high,rabbit,behind,tail,It is likely to see rabbit behind tail.,0.0,0.53
+high,mouse,behind,tail,It is likely to see mouse behind tail.,0.0,0.95
+high,bird,behind,tail,It is likely to see bird behind tail.,0.0,0.95
+mid,head,behind,tail,It is NOT likely to see head behind tail.,0.0,0.92
+mid,beginning,behind,tail,It is NOT likely to see beginning behind tail.,0.0,0.53
+mid,top,behind,tail,It is NOT likely to see top behind tail.,0.0,0.95
+mid,front,behind,tail,It is NOT likely to see front behind tail.,1.0,0.65
+mid,side,behind,tail,It is NOT likely to see side behind tail.,1.0,0.58
+mid,tree,behind,door,It is NOT likely to see tree behind door.,1.0,0.95
+mid,tree,behind,river,It is NOT likely to see tree behind river.,0.0,0.95
+high,mountain,behind,train,It is likely to see mountain behind train.,0.0,0.64
+high,valley,behind,train,It is likely to see valley behind train.,1.0,0.94
+high,forest,behind,train,It is likely to see forest behind train.,1.0,0.63
+high,hill,behind,train,It is likely to see hill behind train.,1.0,0.56
+high,tree,behind,train,It is likely to see tree behind train.,1.0,0.95
+high,building,behind,skyscraper,It is likely to see building behind skyscraper.,1.0,0.95
+high,building,behind,apartment,It is likely to see building behind apartment.,1.0,0.95
+high,building,behind,house,It is likely to see building behind house.,1.0,0.72
+high,building,behind,office,It is likely to see building behind office.,1.0,0.65
+high,building,behind,store,It is likely to see building behind store.,0.0,0.6
+mid,wall,behind,train,It is NOT likely to see wall behind train.,1.0,0.95
+mid,table,behind,train,It is NOT likely to see table behind train.,1.0,0.51
+mid,desk,behind,train,It is NOT likely to see desk behind train.,0.0,0.53
+mid,car,behind,train,It is NOT likely to see car behind train.,1.0,0.93
+mid,train,behind,train,It is NOT likely to see train behind train.,1.0,0.94
+mid,building,behind,work,It is NOT likely to see building behind work.,1.0,0.95
+mid,building,behind,park,It is NOT likely to see building behind park.,0.0,0.56
+mid,building,behind,school,It is NOT likely to see building behind school.,1.0,0.83
+mid,building,behind,hospital,It is NOT likely to see building behind hospital.,1.0,0.74
+mid,building,behind,church,It is NOT likely to see building behind church.,0.0,0.93
+mid,building,behind,house,It is NOT likely to see building behind house.,0.0,0.95
+high,game,behind,player,It is likely to see game behind player.,1.0,0.63
+high,computer,behind,player,It is likely to see computer behind player.,1.0,0.92
+high,phone,behind,player,It is likely to see phone behind player.,0.0,0.95
+high,TV,behind,player,It is likely to see TV behind player.,1.0,0.92
+high,table,behind,player,It is likely to see table behind player.,0.0,0.95
+mid,car,behind,player,It is NOT likely to see car behind player.,1.0,0.68
+mid,house,behind,player,It is NOT likely to see house behind player.,1.0,0.88
+mid,wall,behind,player,It is NOT likely to see wall behind player.,0.0,0.9
+mid,door,behind,player,It is NOT likely to see door behind player.,1.0,0.94
+mid,stage,behind,player,It is NOT likely to see stage behind player.,0.0,0.88
+mid,tree,behind,store,It is NOT likely to see tree behind store.,0.0,0.71
+high,train,in front of,person,It is likely to see train in front of person.,1.0,0.63
+high,sidewalk,in front of,person,It is likely to see sidewalk in front of person.,1.0,0.95
+high,track,in front of,person,It is likely to see track in front of person.,1.0,0.95
+high,street,in front of,person,It is likely to see street in front of person.,1.0,0.95
+high,building,in front of,person,It is likely to see building in front of person.,0.0,0.95
+high,plate,in front of,table,It is likely to see plate in front of table.,0.0,0.51
+high,plate,in front of,counter,It is likely to see plate in front of counter.,0.0,0.51
+high,plate,in front of,desk,It is likely to see plate in front of desk.,1.0,0.65
+high,plate,in front of,bar,It is likely to see plate in front of bar.,0.0,0.95
+high,plate,in front of,stool,It is likely to see plate in front of stool.,0.0,0.95
+mid,door,in front of,person,It is NOT likely to see door in front of person.,0.0,0.95
+mid,window,in front of,person,It is NOT likely to see window in front of person.,1.0,0.83
+mid,table,in front of,person,It is NOT likely to see table in front of person.,0.0,0.95
+mid,computer,in front of,person,It is NOT likely to see computer in front of person.,0.0,0.55
+mid,chair,in front of,person,It is NOT likely to see chair in front of person.,0.0,0.93
+mid,plate,in front of,window,It is NOT likely to see plate in front of window.,1.0,0.63
+mid,plate,in front of,people,It is NOT likely to see plate in front of people.,0.0,0.95
+mid,plate,in front of,rock,It is NOT likely to see plate in front of rock.,1.0,0.66
+mid,plate,in front of,tree,It is NOT likely to see plate in front of tree.,1.0,0.95
+mid,plate,in front of,jacket,It is NOT likely to see plate in front of jacket.,1.0,0.94
+high,sidewalk,in front of,building,It is likely to see sidewalk in front of building.,0.0,0.55
+high,street,in front of,building,It is likely to see street in front of building.,1.0,0.84
+high,car,in front of,building,It is likely to see car in front of building.,1.0,0.61
+high,bus,in front of,building,It is likely to see bus in front of building.,0.0,0.94
+high,people,in front of,building,It is likely to see people in front of building.,0.0,0.52
+high,bus,in front of,school,It is likely to see bus in front of school.,1.0,0.66
+high,bus,in front of,church,It is likely to see bus in front of church.,1.0,0.95
+high,bus,in front of,hospital,It is likely to see bus in front of hospital.,1.0,0.95
+high,bus,in front of,library,It is likely to see bus in front of library.,1.0,0.63
+high,bus,in front of,park,It is likely to see bus in front of park.,1.0,0.8
+mid,street,in front of,building,It is NOT likely to see street in front of building.,0.0,0.95
+mid,grass,in front of,building,It is NOT likely to see grass in front of building.,1.0,0.95
+mid,trees,in front of,building,It is NOT likely to see trees in front of building.,0.0,0.53
+mid,bus,in front of,house,It is NOT likely to see bus in front of house.,0.0,0.95
+mid,bus,in front of,school,It is NOT likely to see bus in front of school.,0.0,0.5
+mid,bus,in front of,church,It is NOT likely to see bus in front of church.,1.0,0.95
+mid,bus,in front of,hospital,It is NOT likely to see bus in front of hospital.,0.0,0.53
+mid,bus,in front of,park,It is NOT likely to see bus in front of park.,0.0,0.88
+high,person,in front of,tree,It is likely to see person in front of tree.,1.0,0.94
+high,house,in front of,tree,It is likely to see house in front of tree.,1.0,0.95
+high,car,in front of,tree,It is likely to see car in front of tree.,1.0,0.69
+high,sidewalk,in front of,tree,It is likely to see sidewalk in front of tree.,0.0,0.55
+high,street,in front of,tree,It is likely to see street in front of tree.,1.0,0.9
+high,bench,in front of,building,It is likely to see bench in front of building.,0.0,0.95
+high,bench,in front of,sidewalk,It is likely to see bench in front of sidewalk.,1.0,0.95
+high,bench,in front of,park,It is likely to see bench in front of park.,1.0,0.66
+high,bench,in front of,garden,It is likely to see bench in front of garden.,1.0,0.54
+high,bench,in front of,waiting room,It is likely to see bench in front of waiting room.,0.0,0.51
+mid,window,in front of,tree,It is NOT likely to see window in front of tree.,1.0,0.84
+mid,house,in front of,tree,It is NOT likely to see house in front of tree.,1.0,0.95
+mid,car,in front of,tree,It is NOT likely to see car in front of tree.,1.0,0.95
+mid,school,in front of,tree,It is NOT likely to see school in front of tree.,0.0,0.94
+mid,person,in front of,tree,It is NOT likely to see person in front of tree.,0.0,0.95
+mid,bench,in front of,garden,It is NOT likely to see bench in front of garden.,1.0,0.54
+mid,bench,in front of,house,It is NOT likely to see bench in front of house.,1.0,0.95
+mid,bench,in front of,school,It is NOT likely to see bench in front of school.,1.0,0.51
+mid,bench,in front of,office,It is NOT likely to see bench in front of office.,0.0,0.95
+mid,bench,in front of,church,It is NOT likely to see bench in front of church.,0.0,0.95
+mid,bench,in front of,store,It is NOT likely to see bench in front of store.,0.0,0.81
+high,people,in front of,door,It is likely to see people in front of door.,1.0,0.66
+high,people,in front of,window,It is likely to see people in front of window.,1.0,0.95
+high,people,in front of,car,It is likely to see people in front of car.,1.0,0.64
+high,people,in front of,bus,It is likely to see people in front of bus.,0.0,0.61
+high,people,in front of,train,It is likely to see people in front of train.,1.0,0.83
+mid,house,in front of,building,It is NOT likely to see house in front of building.,1.0,0.66
+mid,school,in front of,building,It is NOT likely to see school in front of building.,1.0,0.94
+mid,office,in front of,building,It is NOT likely to see office in front of building.,0.0,0.92
+mid,church,in front of,building,It is NOT likely to see church in front of building.,1.0,0.75
+mid,hospital,in front of,building,It is NOT likely to see hospital in front of building.,1.0,0.95
+mid,people,in front of,window,It is NOT likely to see people in front of window.,1.0,0.94
+mid,people,in front of,number,It is NOT likely to see people in front of number.,1.0,0.92
+mid,people,in front of,rock,It is NOT likely to see people in front of rock.,0.0,0.95
+mid,people,in front of,tree,It is NOT likely to see people in front of tree.,1.0,0.57
+mid,people,in front of,basket,It is NOT likely to see people in front of basket.,1.0,0.95
+high,railing,in front of,stairs,It is likely to see railing in front of stairs.,1.0,0.54
+high,railing,in front of,balcony,It is likely to see railing in front of balcony.,1.0,0.63
+high,railing,in front of,porch,It is likely to see railing in front of porch.,0.0,0.88
+high,railing,in front of,deck,It is likely to see railing in front of deck.,1.0,0.95
+high,railing,in front of,fence,It is likely to see railing in front of fence.,1.0,0.88
+mid,car,in front of,building,It is NOT likely to see car in front of building.,1.0,0.5
+mid,bike,in front of,building,It is NOT likely to see bike in front of building.,0.0,0.95
+mid,table,in front of,building,It is NOT likely to see table in front of building.,0.0,0.72
+mid,plant,in front of,building,It is NOT likely to see plant in front of building.,0.0,0.6
+mid,railing,in front of,window,It is NOT likely to see railing in front of window.,1.0,0.59
+mid,railing,in front of,house,It is NOT likely to see railing in front of house.,0.0,0.95
+mid,railing,in front of,building,It is NOT likely to see railing in front of building.,1.0,0.65
+mid,railing,in front of,car,It is NOT likely to see railing in front of car.,0.0,0.78
+mid,railing,in front of,truck,It is NOT likely to see railing in front of truck.,0.0,0.53
+high,man,in front of,train,It is likely to see man in front of train.,1.0,0.95
+high,man,in front of,sidewalk,It is likely to see man in front of sidewalk.,1.0,0.95
+high,man,in front of,track,It is likely to see man in front of track.,0.0,0.9
+high,man,in front of,street,It is likely to see man in front of street.,1.0,0.58
+high,man,in front of,building,It is likely to see man in front of building.,1.0,0.65
+mid,hat,in front of,tree,It is NOT likely to see hat in front of tree.,1.0,0.95
+mid,drawer,in front of,tree,It is NOT likely to see drawer in front of tree.,1.0,0.63
+mid,vase,in front of,tree,It is NOT likely to see vase in front of tree.,0.0,0.95
+mid,basket,in front of,tree,It is NOT likely to see basket in front of tree.,1.0,0.63
+mid,box,in front of,tree,It is NOT likely to see box in front of tree.,0.0,0.9
+mid,man,in front of,door,It is NOT likely to see man in front of door.,0.0,0.9
+mid,man,in front of,window,It is NOT likely to see man in front of window.,0.0,0.67
+mid,man,in front of,car,It is NOT likely to see man in front of car.,1.0,0.86
+mid,man,in front of,table,It is NOT likely to see man in front of table.,0.0,0.85
+mid,man,in front of,computer,It is NOT likely to see man in front of computer.,0.0,0.5
+mid,lamp,in front of,building,It is NOT likely to see lamp in front of building.,0.0,0.55
+mid,people,in front of,building,It is NOT likely to see people in front of building.,0.0,0.78
+mid,stone,in front of,building,It is NOT likely to see stone in front of building.,0.0,0.95
+mid,paper,in front of,building,It is NOT likely to see paper in front of building.,1.0,0.95
+mid,bench,in front of,front door,It is NOT likely to see bench in front of front door.,1.0,0.95
+mid,bench,in front of,car,It is NOT likely to see bench in front of car.,1.0,0.57
+mid,bench,in front of,bed,It is NOT likely to see bench in front of bed.,0.0,0.68
+mid,bench,in front of,sink,It is NOT likely to see bench in front of sink.,1.0,0.94
+mid,bench,in front of,computer,It is NOT likely to see bench in front of computer.,1.0,0.66
+high,fence,in front of,house,It is likely to see fence in front of house.,1.0,0.95
+high,fence,in front of,garden,It is likely to see fence in front of garden.,0.0,0.95
+high,fence,in front of,park,It is likely to see fence in front of park.,1.0,0.95
+high,fence,in front of,farm,It is likely to see fence in front of farm.,1.0,0.57
+high,fence,in front of,field,It is likely to see fence in front of field.,1.0,0.95
+mid,sky,in front of,tree,It is NOT likely to see sky in front of tree.,1.0,0.57
+mid,sun,in front of,tree,It is NOT likely to see sun in front of tree.,1.0,0.6
+mid,cloud,in front of,tree,It is NOT likely to see cloud in front of tree.,0.0,0.65
+mid,fence,in front of,hat,It is NOT likely to see fence in front of hat.,0.0,0.86
+mid,fence,in front of,drawer,It is NOT likely to see fence in front of drawer.,1.0,0.66
+mid,fence,in front of,vase,It is NOT likely to see fence in front of vase.,1.0,0.95
+mid,fence,in front of,basket,It is NOT likely to see fence in front of basket.,1.0,0.95
+mid,fence,in front of,box,It is NOT likely to see fence in front of box.,1.0,0.59
+high,wave,in front of,light,It is likely to see wave in front of light.,1.0,0.95
+high,wave,in front of,sound,It is likely to see wave in front of sound.,0.0,0.7
+high,wave,in front of,water,It is likely to see wave in front of water.,1.0,0.95
+high,wave,in front of,air,It is likely to see wave in front of air.,0.0,0.64
+high,wave,in front of,electromagnetic,It is likely to see wave in front of electromagnetic.,1.0,0.54
+mid,building,in front of,tree,It is NOT likely to see building in front of tree.,0.0,0.53
+mid,bike,in front of,tree,It is NOT likely to see bike in front of tree.,1.0,0.65
+mid,wave,in front of,car,It is NOT likely to see wave in front of car.,1.0,0.95
+mid,wave,in front of,house,It is NOT likely to see wave in front of house.,0.0,0.93
+mid,wave,in front of,table,It is NOT likely to see wave in front of table.,0.0,0.59
+mid,wave,in front of,mountain,It is NOT likely to see wave in front of mountain.,0.0,0.67
+mid,wave,in front of,sky,It is NOT likely to see wave in front of sky.,1.0,0.94
+mid,water,in front of,tree,It is NOT likely to see water in front of tree.,1.0,0.95
+mid,people,in front of,mirror,It is NOT likely to see people in front of mirror.,0.0,0.5
+mid,people,in front of,painting,It is NOT likely to see people in front of painting.,0.0,0.95
+mid,people,in front of,door,It is NOT likely to see people in front of door.,1.0,0.95
+mid,people,in front of,table,It is NOT likely to see people in front of table.,1.0,0.95
+high,table,in,room,It is likely to see table in room.,1.0,0.56
+high,chair,in,room,It is likely to see chair in room.,1.0,0.95
+high,bed,in,room,It is likely to see bed in room.,1.0,0.95
+high,dresser,in,room,It is likely to see dresser in room.,1.0,0.95
+high,closet,in,room,It is likely to see closet in room.,1.0,0.85
+high,cabinet,in,drawers,It is likely to see cabinet in drawers.,0.0,0.95
+high,cabinet,in,or cupboards,It is likely to see cabinet in or cupboards.,1.0,0.51
+high,cabinet,in,kitchen,It is likely to see cabinet in kitchen.,1.0,0.8
+high,cabinet,in,bathroom,It is likely to see cabinet in bathroom.,0.0,0.83
+high,cabinet,in,bedroom,It is likely to see cabinet in bedroom.,1.0,0.51
+high,cabinet,in,living room,It is likely to see cabinet in living room.,1.0,0.8
+high,cabinet,in,office,It is likely to see cabinet in office.,1.0,0.89
+mid,window,in,room,It is NOT likely to see window in room.,1.0,0.57
+mid,door,in,room,It is NOT likely to see door in room.,1.0,0.58
+mid,table,in,room,It is NOT likely to see table in room.,0.0,0.93
+mid,chair,in,room,It is NOT likely to see chair in room.,0.0,0.95
+mid,bed,in,room,It is NOT likely to see bed in room.,0.0,0.71
+mid,cabinet,in,on a window,It is NOT likely to see cabinet in on a window.,0.0,0.51
+mid,cabinet,in,on a rock,It is NOT likely to see cabinet in on a rock.,0.0,0.66
+mid,cabinet,in,or in a box,It is NOT likely to see cabinet in or in a box.,1.0,0.63
+high,phone,in,hand,It is likely to see phone in hand.,1.0,0.78
+high,book,in,hand,It is likely to see book in hand.,1.0,0.95
+high,pencil,in,hand,It is likely to see pencil in hand.,0.0,0.95
+high,paper,in,hand,It is likely to see paper in hand.,0.0,0.95
+high,remote,in,hand,It is likely to see remote in hand.,1.0,0.95
+high,food,in,can,It is likely to see food in can.,0.0,0.95
+high,food,in,jar,It is likely to see food in jar.,1.0,0.95
+high,food,in,box,It is likely to see food in box.,1.0,0.82
+high,food,in,fridge,It is likely to see food in fridge.,1.0,0.95
+high,food,in,freezer,It is likely to see food in freezer.,1.0,0.94
+mid,fork,in,hand,It is NOT likely to see fork in hand.,0.0,0.95
+mid,knife,in,hand,It is NOT likely to see knife in hand.,1.0,0.77
+mid,spoon,in,hand,It is NOT likely to see spoon in hand.,1.0,0.55
+mid,book,in,hand,It is NOT likely to see book in hand.,1.0,0.57
+mid,pencil,in,hand,It is NOT likely to see pencil in hand.,1.0,0.71
+mid,food,in,window,It is NOT likely to see food in window.,1.0,0.51
+mid,food,in,bathroom,It is NOT likely to see food in bathroom.,1.0,0.51
+mid,food,in,garden,It is NOT likely to see food in garden.,1.0,0.64
+mid,food,in,car,It is NOT likely to see food in car.,1.0,0.95
+mid,food,in,school,It is NOT likely to see food in school.,1.0,0.67
+high,flower,in,leaf,It is likely to see flower in leaf.,0.0,0.95
+high,tree,in,leaf,It is likely to see tree in leaf.,0.0,0.53
+high,plant,in,leaf,It is likely to see plant in leaf.,1.0,0.95
+high,wreath,in,leaf,It is likely to see wreath in leaf.,1.0,0.95
+high,garland,in,leaf,It is likely to see garland in leaf.,1.0,0.65
+high,flower,in,pot,It is likely to see flower in pot.,1.0,0.68
+high,flower,in,vase,It is likely to see flower in vase.,0.0,0.65
+high,flower,in,field,It is likely to see flower in field.,1.0,0.95
+high,flower,in,or meadow,It is likely to see flower in or meadow.,0.0,0.95
+mid,sky,in,leaf,It is NOT likely to see sky in leaf.,1.0,0.54
+mid,water,in,leaf,It is NOT likely to see water in leaf.,0.0,0.72
+mid,air,in,leaf,It is NOT likely to see air in leaf.,0.0,0.7
+mid,fire,in,leaf,It is NOT likely to see fire in leaf.,0.0,0.89
+mid,earth,in,leaf,It is NOT likely to see earth in leaf.,1.0,0.61
+mid,flower,in,house,It is NOT likely to see flower in house.,1.0,0.95
+mid,flower,in,car,It is NOT likely to see flower in car.,0.0,0.94
+mid,flower,in,office,It is NOT likely to see flower in office.,1.0,0.65
+mid,flower,in,kitchen,It is NOT likely to see flower in kitchen.,1.0,0.95
+mid,flower,in,bathroom,It is NOT likely to see flower in bathroom.,1.0,0.59
+high,keys,in,hand,It is likely to see keys in hand.,1.0,0.88
+high,wallet,in,hand,It is likely to see wallet in hand.,1.0,0.56
+high,phone,in,pocket,It is likely to see phone in pocket.,0.0,0.53
+high,phone,in,bag,It is likely to see phone in bag.,0.0,0.92
+high,phone,in,purse,It is likely to see phone in purse.,0.0,0.95
+high,phone,in,backpack,It is likely to see phone in backpack.,0.0,0.6
+mid,gun,in,hand,It is NOT likely to see gun in hand.,1.0,0.74
+mid,microphone,in,hand,It is NOT likely to see microphone in hand.,0.0,0.9
+mid,sandwich,in,hand,It is NOT likely to see sandwich in hand.,0.0,0.95
+mid,drum,in,hand,It is NOT likely to see drum in hand.,1.0,0.95
+mid,phone,in,window,It is NOT likely to see phone in window.,0.0,0.6
+mid,phone,in,hat,It is NOT likely to see phone in hat.,1.0,0.61
+mid,phone,in,drawer,It is NOT likely to see phone in drawer.,0.0,0.95
+mid,phone,in,vase,It is NOT likely to see phone in vase.,1.0,0.65
+mid,phone,in,basket,It is NOT likely to see phone in basket.,0.0,0.9
+high,water,in,glass,It is likely to see water in glass.,1.0,0.95
+high,milk,in,glass,It is likely to see milk in glass.,1.0,0.63
+high,beer,in,glass,It is likely to see beer in glass.,1.0,0.65
+high,soda,in,glass,It is likely to see soda in glass.,0.0,0.9
+high,juice,in,glass,It is likely to see juice in glass.,0.0,0.6
+mid,meat,in,glass,It is NOT likely to see meat in glass.,0.0,0.73
+mid,book,in,glass,It is NOT likely to see book in glass.,1.0,0.94
+mid,remote,in,glass,It is NOT likely to see remote in glass.,0.0,0.7
+mid,cat,in,glass,It is NOT likely to see cat in glass.,0.0,0.5
+mid,pencil,in,glass,It is NOT likely to see pencil in glass.,1.0,0.65
+mid,food,in,bedroom,It is NOT likely to see food in bedroom.,0.0,0.93
+mid,food,in,attic,It is NOT likely to see food in attic.,1.0,0.95
+mid,food,in,basement,It is NOT likely to see food in basement.,1.0,0.95
+mid,food,in,garage,It is NOT likely to see food in garage.,0.0,0.95
+high,handle,in,bag,It is likely to see handle in bag.,1.0,0.51
+high,handle,in,suitcase,It is likely to see handle in suitcase.,1.0,0.65
+high,handle,in,door,It is likely to see handle in door.,1.0,0.57
+high,handle,in,drawer,It is likely to see handle in drawer.,0.0,0.5
+high,handle,in,cupboard,It is likely to see handle in cupboard.,1.0,0.57
+mid,paper,in,hand,It is NOT likely to see paper in hand.,1.0,0.54
+mid,envelope,in,hand,It is NOT likely to see envelope in hand.,1.0,0.57
+mid,ball,in,hand,It is NOT likely to see ball in hand.,1.0,0.95
+mid,handle,in,book,It is NOT likely to see handle in book.,1.0,0.59
+mid,handle,in,pencil,It is NOT likely to see handle in pencil.,1.0,0.68
+mid,handle,in,paper,It is NOT likely to see handle in paper.,1.0,0.51
+mid,handle,in,plant,It is NOT likely to see handle in plant.,0.0,0.95
+mid,handle,in,cat,It is NOT likely to see handle in cat.,1.0,0.95
+high,window,in,house,It is likely to see window in house.,0.0,0.55
+high,window,in,car,It is likely to see window in car.,1.0,0.95
+high,window,in,bus,It is likely to see window in bus.,1.0,0.58
+high,window,in,train,It is likely to see window in train.,1.0,0.84
+high,window,in,building,It is likely to see window in building.,0.0,0.56
+mid,car,in,room,It is NOT likely to see car in room.,0.0,0.95
+mid,truck,in,room,It is NOT likely to see truck in room.,0.0,0.75
+mid,train,in,room,It is NOT likely to see train in room.,1.0,0.83
+mid,plane,in,room,It is NOT likely to see plane in room.,1.0,0.84
+mid,ship,in,room,It is NOT likely to see ship in room.,1.0,0.95
+mid,window,in,door,It is NOT likely to see window in door.,1.0,0.6
+mid,window,in,table,It is NOT likely to see window in table.,1.0,0.77
+mid,window,in,forest,It is NOT likely to see window in forest.,1.0,0.95
+mid,window,in,cupboard,It is NOT likely to see window in cupboard.,1.0,0.56
+mid,window,in,car,It is NOT likely to see window in car.,1.0,0.65
+high,salt,in,food,It is likely to see salt in food.,0.0,0.53
+high,sugar,in,food,It is likely to see sugar in food.,1.0,0.95
+high,flour,in,food,It is likely to see flour in food.,1.0,0.95
+high,eggs,in,food,It is likely to see eggs in food.,1.0,0.61
+high,butter,in,food,It is likely to see butter in food.,1.0,0.95
+high,vegetable,in,fridge,It is likely to see vegetable in fridge.,1.0,0.59
+high,vegetable,in,counter,It is likely to see vegetable in counter.,0.0,0.79
+high,vegetable,in,table,It is likely to see vegetable in table.,1.0,0.57
+high,vegetable,in,cupboard,It is likely to see vegetable in cupboard.,1.0,0.59
+high,vegetable,in,sink,It is likely to see vegetable in sink.,0.0,0.95
+mid,sock,in,food,It is NOT likely to see sock in food.,0.0,0.53
+mid,tie,in,food,It is NOT likely to see tie in food.,1.0,0.61
+mid,belt,in,food,It is NOT likely to see belt in food.,1.0,0.51
+mid,shoes,in,food,It is NOT likely to see shoes in food.,0.0,0.62
+mid,dress,in,food,It is NOT likely to see dress in food.,1.0,0.85
+mid,vegetable,in,window,It is NOT likely to see vegetable in window.,1.0,0.82
+mid,vegetable,in,house,It is NOT likely to see vegetable in house.,1.0,0.71
+mid,vegetable,in,city,It is NOT likely to see vegetable in city.,1.0,0.95
+mid,vegetable,in,car,It is NOT likely to see vegetable in car.,1.0,0.95
+mid,vegetable,in,office,It is NOT likely to see vegetable in office.,1.0,0.71
+high,rice,in,bowl,It is likely to see rice in bowl.,1.0,0.77
+high,cereal,in,bowl,It is likely to see cereal in bowl.,1.0,0.95
+high,milk,in,bowl,It is likely to see milk in bowl.,1.0,0.51
+high,soup,in,bowl,It is likely to see soup in bowl.,1.0,0.95
+high,fruit,in,bowl,It is likely to see fruit in bowl.,1.0,0.65
+high,fruit,in,tree,It is likely to see fruit in tree.,1.0,0.65
+high,fruit,in,bush,It is likely to see fruit in bush.,1.0,0.54
+high,fruit,in,plant,It is likely to see fruit in plant.,1.0,0.78
+high,fruit,in,grocery store,It is likely to see fruit in grocery store.,1.0,0.94
+high,fruit,in,market,It is likely to see fruit in market.,1.0,0.54
+mid,pencil,in,bowl,It is NOT likely to see pencil in bowl.,1.0,0.95
+mid,paper,in,bowl,It is NOT likely to see paper in bowl.,0.0,0.95
+mid,book,in,bowl,It is NOT likely to see book in bowl.,0.0,0.95
+mid,cat,in,bowl,It is NOT likely to see cat in bowl.,0.0,0.5
+mid,lamp,in,bowl,It is NOT likely to see lamp in bowl.,1.0,0.61
+mid,fruit,in,computer,It is NOT likely to see fruit in computer.,1.0,0.63
+mid,fruit,in,book,It is NOT likely to see fruit in book.,1.0,0.57
+mid,fruit,in,car,It is NOT likely to see fruit in car.,0.0,0.89
+mid,fruit,in,bathroom,It is NOT likely to see fruit in bathroom.,1.0,0.51
+mid,fruit,in,kitchen,It is NOT likely to see fruit in kitchen.,1.0,0.65
+high,roof,above,door,It is likely to see roof above door.,1.0,0.95
+high,sky,above,door,It is likely to see sky above door.,1.0,0.61
+high,ceiling,above,door,It is likely to see ceiling above door.,0.0,0.95
+high,frame,above,door,It is likely to see frame above door.,1.0,0.95
+high,wall,above,door,It is likely to see wall above door.,1.0,0.81
+high,window,above,clouds,It is likely to see window above clouds.,1.0,0.58
+high,window,above,sky,It is likely to see window above sky.,0.0,0.6
+high,window,above,sun,It is likely to see window above sun.,1.0,0.61
+high,window,above,stars,It is likely to see window above stars.,0.0,0.53
+high,window,above,moon,It is likely to see window above moon.,1.0,0.54
+mid,Usually,above,door,It is NOT likely to see Usually above door.,1.0,0.58
+mid,letter,above,door,It is NOT likely to see letter above door.,1.0,0.95
+mid,picture,above,door,It is NOT likely to see picture above door.,1.0,0.66
+mid,curtain,above,door,It is NOT likely to see curtain above door.,1.0,0.66
+mid,rug,above,door,It is NOT likely to see rug above door.,0.0,0.63
+mid,light,above,door,It is NOT likely to see light above door.,0.0,0.94
+mid,window,above,ceiling,It is NOT likely to see window above ceiling.,1.0,0.95
+mid,window,above,sky,It is NOT likely to see window above sky.,1.0,0.57
+mid,window,above,top,It is NOT likely to see window above top.,0.0,0.95
+mid,window,above,roof,It is NOT likely to see window above roof.,0.0,0.61
+mid,window,above,mountain,It is NOT likely to see window above mountain.,0.0,0.53
+high,light,above,lamp,It is likely to see light above lamp.,1.0,0.61
+high,light,above,ceiling,It is likely to see light above ceiling.,1.0,0.95
+high,light,above,sun,It is likely to see light above sun.,1.0,0.74
+high,light,above,moon,It is likely to see light above moon.,0.0,0.95
+high,light,above,stars,It is likely to see light above stars.,1.0,0.56
+mid,sky,above,door,It is NOT likely to see sky above door.,1.0,0.59
+mid,ceiling,above,door,It is NOT likely to see ceiling above door.,1.0,0.51
+mid,floor,above,door,It is NOT likely to see floor above door.,1.0,0.95
+mid,table,above,door,It is NOT likely to see table above door.,1.0,0.95
+mid,chair,above,door,It is NOT likely to see chair above door.,0.0,0.51
+mid,light,above,curtain,It is NOT likely to see light above curtain.,1.0,0.65
+mid,light,above,sink,It is NOT likely to see light above sink.,1.0,0.95
+mid,light,above,bed,It is NOT likely to see light above bed.,0.0,0.72
+mid,light,above,telephone,It is NOT likely to see light above telephone.,1.0,0.71
+high,Sky,above,window,It is likely to see Sky above window.,1.0,0.57
+high,sun,above,window,It is likely to see sun above window.,1.0,0.5
+high,clouds,above,window,It is likely to see clouds above window.,1.0,0.57
+high,air,above,window,It is likely to see air above window.,1.0,0.95
+high,space,above,window,It is likely to see space above window.,1.0,0.95
+high,roof,above,house,It is likely to see roof above house.,1.0,0.56
+high,roof,above,store,It is likely to see roof above store.,0.0,0.95
+high,roof,above,factory,It is likely to see roof above factory.,0.0,0.95
+high,roof,above,church,It is likely to see roof above church.,1.0,0.61
+high,roof,above,garage,It is likely to see roof above garage.,1.0,0.61
+mid,ceiling,above,window,It is NOT likely to see ceiling above window.,1.0,0.94
+mid,sky,above,window,It is NOT likely to see sky above window.,0.0,0.57
+mid,sun,above,window,It is NOT likely to see sun above window.,0.0,0.95
+mid,star,above,window,It is NOT likely to see star above window.,1.0,0.51
+mid,moon,above,window,It is NOT likely to see moon above window.,1.0,0.95
+mid,roof,above,book,It is NOT likely to see roof above book.,0.0,0.84
+mid,roof,above,computer,It is NOT likely to see roof above computer.,1.0,0.61
+mid,roof,above,person,It is NOT likely to see roof above person.,1.0,0.51
+mid,roof,above,pencil,It is NOT likely to see roof above pencil.,1.0,0.77
+mid,roof,above,paper,It is NOT likely to see roof above paper.,0.0,0.95
+high,airplane,above,person,It is likely to see airplane above person.,1.0,0.63
+high,sun,above,person,It is likely to see sun above person.,1.0,0.65
+high,moon,above,person,It is likely to see moon above person.,1.0,0.95
+high,cloud,above,person,It is likely to see cloud above person.,0.0,0.5
+high,star,above,person,It is likely to see star above person.,1.0,0.6
+mid,airplane,above,person,It is NOT likely to see airplane above person.,0.0,0.83
+mid,mountain,above,person,It is NOT likely to see mountain above person.,1.0,0.65
+mid,sun,above,person,It is NOT likely to see sun above person.,0.0,0.53
+mid,moon,above,person,It is NOT likely to see moon above person.,1.0,0.65
+mid,star,above,person,It is NOT likely to see star above person.,1.0,0.92
+mid,window,above,sink,It is NOT likely to see window above sink.,1.0,0.61
+mid,window,above,bed,It is NOT likely to see window above bed.,0.0,0.6
+mid,window,above,table,It is NOT likely to see window above table.,1.0,0.65
+mid,window,above,desk,It is NOT likely to see window above desk.,0.0,0.95
+mid,window,above,chair,It is NOT likely to see window above chair.,0.0,0.74
+mid,ceiling,above,person,It is NOT likely to see ceiling above person.,1.0,0.63
+mid,sky,above,person,It is NOT likely to see sky above person.,1.0,0.95
+mid,cloud,above,person,It is NOT likely to see cloud above person.,1.0,0.95
+mid,light,above,Sun,It is NOT likely to see light above Sun.,0.0,0.75
+mid,light,above,moon,It is NOT likely to see light above moon.,0.0,0.9
+mid,light,above,star,It is NOT likely to see light above star.,1.0,0.95
+mid,light,above,lightning,It is NOT likely to see light above lightning.,1.0,0.63
+mid,light,above,fire,It is NOT likely to see light above fire.,0.0,0.53
+high,muscle,above,leg,It is likely to see muscle above leg.,0.0,0.95
+high,bone,above,leg,It is likely to see bone above leg.,0.0,0.66
+high,blood vessels,above,leg,It is likely to see blood vessels above leg.,0.0,0.95
+high,skin,above,leg,It is likely to see skin above leg.,1.0,0.95
+high,hair,above,leg,It is likely to see hair above leg.,0.0,0.92
+high,leaf,above,oak,It is likely to see leaf above oak.,1.0,0.51
+high,leaf,above,maple,It is likely to see leaf above maple.,1.0,0.95
+high,leaf,above,pine,It is likely to see leaf above pine.,0.0,0.95
+high,leaf,above,fir,It is likely to see leaf above fir.,1.0,0.77
+high,leaf,above,spruce,It is likely to see leaf above spruce.,0.0,0.51
+mid,sky,above,leg,It is NOT likely to see sky above leg.,1.0,0.61
+mid,ceiling,above,leg,It is NOT likely to see ceiling above leg.,1.0,0.95
+mid,table,above,leg,It is NOT likely to see table above leg.,1.0,0.63
+mid,mountain,above,leg,It is NOT likely to see mountain above leg.,1.0,0.8
+mid,chair,above,leg,It is NOT likely to see chair above leg.,1.0,0.66
+mid,leaf,above,water,It is NOT likely to see leaf above water.,1.0,0.61
+mid,leaf,above,stone,It is NOT likely to see leaf above stone.,1.0,0.95
+mid,leaf,above,building,It is NOT likely to see leaf above building.,1.0,0.61
+mid,leaf,above,cloud,It is NOT likely to see leaf above cloud.,1.0,0.95
+mid,leaf,above,airplane,It is NOT likely to see leaf above airplane.,1.0,0.95
+high,airplane,above,man,It is likely to see airplane above man.,1.0,0.63
+high,sun,above,man,It is likely to see sun above man.,1.0,0.61
+high,moon,above,man,It is likely to see moon above man.,1.0,0.86
+high,cloud,above,man,It is likely to see cloud above man.,1.0,0.95
+high,star,above,man,It is likely to see star above man.,1.0,0.54
+mid,clouds,above,man,It is NOT likely to see clouds above man.,1.0,0.6
+mid,sky,above,man,It is NOT likely to see sky above man.,1.0,0.83
+mid,ceiling,above,man,It is NOT likely to see ceiling above man.,1.0,0.63
+mid,roof,above,man,It is NOT likely to see roof above man.,1.0,0.95
+mid,sun,above,man,It is NOT likely to see sun above man.,1.0,0.94
+mid,light,above,hat,It is NOT likely to see light above hat.,0.0,0.63
+mid,light,above,drawer,It is NOT likely to see light above drawer.,0.0,0.62
+mid,light,above,vase,It is NOT likely to see light above vase.,0.0,0.95
+mid,light,above,basket,It is NOT likely to see light above basket.,1.0,0.92
+mid,light,above,box,It is NOT likely to see light above box.,0.0,0.95
+high,train,above,sign,It is likely to see train above sign.,1.0,0.58
+high,sidewalk,above,sign,It is likely to see sidewalk above sign.,1.0,0.95
+high,track,above,sign,It is likely to see track above sign.,0.0,0.56
+high,street,above,sign,It is likely to see street above sign.,1.0,0.95
+high,building,above,sign,It is likely to see building above sign.,0.0,0.95
+mid,number,above,sign,It is NOT likely to see number above sign.,1.0,0.65
+mid,people,above,sign,It is NOT likely to see people above sign.,0.0,0.5
+mid,light,above,sign,It is NOT likely to see light above sign.,1.0,0.54
+mid,lamp,above,sign,It is NOT likely to see lamp above sign.,0.0,0.93
+mid,door,above,sign,It is NOT likely to see door above sign.,0.0,0.63
+mid,light,above,sun,It is NOT likely to see light above sun.,0.0,0.57
+mid,light,above,sky,It is NOT likely to see light above sky.,0.0,0.95
+mid,light,above,lamp,It is NOT likely to see light above lamp.,1.0,0.95
+high,sign,above,stop,It is likely to see sign above stop.,1.0,0.6
+high,sign,above,yield,It is likely to see sign above yield.,1.0,0.79
+high,sign,above,do not enter,It is likely to see sign above do not enter.,0.0,0.9
+high,sign,above,one way,It is likely to see sign above one way.,0.0,0.86
+high,sign,above,no parking,It is likely to see sign above no parking.,1.0,0.95
+mid,sign,above,window,It is NOT likely to see sign above window.,0.0,0.53
+mid,sign,above,computer,It is NOT likely to see sign above computer.,0.0,0.95
+mid,sign,above,table,It is NOT likely to see sign above table.,0.0,0.71
+mid,sign,above,chair,It is NOT likely to see sign above chair.,1.0,0.63
+mid,sign,above,floor,It is NOT likely to see sign above floor.,1.0,0.64
+high,sky,above,car,It is likely to see sky above car.,1.0,0.66
+high,clouds,above,car,It is likely to see clouds above car.,0.0,0.95
+high,sun,above,car,It is likely to see sun above car.,1.0,0.56
+high,moon,above,car,It is likely to see moon above car.,1.0,0.57
+high,stars,above,car,It is likely to see stars above car.,1.0,0.8
+mid,plane,above,car,It is NOT likely to see plane above car.,1.0,0.95
+mid,balloon,above,car,It is NOT likely to see balloon above car.,1.0,0.95
+mid,kite,above,car,It is NOT likely to see kite above car.,1.0,0.66
+mid,sun,above,car,It is NOT likely to see sun above car.,0.0,0.61
+mid,stars,above,car,It is NOT likely to see stars above car.,1.0,0.57
+mid,window,above,door,It is NOT likely to see window above door.,0.0,0.93
+high,oak,has,leaf,It is likely for oak to have leaf.,1.0,0.56
+high,maple,has,leaf,It is likely for maple to have leaf.,1.0,0.66
+high,elm,has,leaf,It is likely for elm to have leaf.,1.0,0.95
+high,birch,has,leaf,It is likely for birch to have leaf.,1.0,0.58
+high,pine,has,leaf,It is likely for pine to have leaf.,1.0,0.8
+high,tree,has,Tree has leaves,It is likely for tree to have Tree has leaves.,1.0,0.84
+high,tree,has,branches,It is likely for tree to have branches.,1.0,0.65
+high,tree,has,leaves,It is likely for tree to have leaves.,1.0,0.51
+high,tree,has,trunk,It is likely for tree to have trunk.,0.0,0.51
+high,tree,has,bark,It is likely for tree to have bark.,1.0,0.58
+high,tree,has,sap,It is likely for tree to have sap.,1.0,0.65
+mid,apple,has,leaf,It is NOT likely for apple to have leaf.,1.0,0.51
+mid,banana,has,leaf,It is NOT likely for banana to have leaf.,1.0,0.6
+mid,orange,has,leaf,It is NOT likely for orange to have leaf.,1.0,0.6
+mid,grape,has,leaf,It is NOT likely for grape to have leaf.,1.0,0.95
+mid,strawberry,has,leaf,It is NOT likely for strawberry to have leaf.,1.0,0.71
+mid,tree,has,window,It is NOT likely for tree to have window.,0.0,0.95
+mid,tree,has,cat,It is NOT likely for tree to have cat.,1.0,0.61
+mid,tree,has,book,It is NOT likely for tree to have book.,0.0,0.95
+mid,tree,has,pencil,It is NOT likely for tree to have pencil.,0.0,0.51
+mid,tree,has,phone,It is NOT likely for tree to have phone.,1.0,0.95
+high,human,has,leg,It is likely for human to have leg.,0.0,0.51
+high,animal,has,leg,It is likely for animal to have leg.,1.0,0.57
+high,insect,has,leg,It is likely for insect to have leg.,1.0,0.94
+high,bird,has,leg,It is likely for bird to have leg.,1.0,0.93
+high,reptile,has,leg,It is likely for reptile to have leg.,0.0,0.53
+high,head,has,nose,It is likely for head to have nose.,0.0,0.51
+high,head,has,hair,It is likely for head to have hair.,1.0,0.51
+high,head,has,eyes,It is likely for head to have eyes.,1.0,0.54
+high,head,has,mouth,It is likely for head to have mouth.,1.0,0.95
+high,head,has,ears,It is likely for head to have ears.,0.0,0.95
+mid,Usually,has,leg,It is NOT likely for Usually to have leg.,1.0,0.79
+mid,table,has,leg,It is NOT likely for table to have leg.,1.0,0.61
+mid,chair,has,leg,It is NOT likely for chair to have leg.,1.0,0.54
+mid,sofa,has,leg,It is NOT likely for sofa to have leg.,1.0,0.95
+mid,cupboard,has,leg,It is NOT likely for cupboard to have leg.,0.0,0.68
+mid,house,has,leg,It is NOT likely for house to have leg.,0.0,0.53
+mid,head,has,nose,It is NOT likely for head to have nose.,0.0,0.85
+mid,head,has,arm,It is NOT likely for head to have arm.,0.0,0.95
+mid,head,has,leg,It is NOT likely for head to have leg.,0.0,0.56
+mid,head,has,foot,It is NOT likely for head to have foot.,1.0,0.6
+mid,head,has,hand,It is NOT likely for head to have hand.,1.0,0.79
+mid,head,has,finger,It is NOT likely for head to have finger.,1.0,0.87
+high,human,has,arm,It is likely for human to have arm.,1.0,0.95
+high,animal,has,arm,It is likely for animal to have arm.,1.0,0.77
+high,robot,has,arm,It is likely for robot to have arm.,1.0,0.93
+high,machine,has,arm,It is likely for machine to have arm.,0.0,0.87
+high,creature,has,arm,It is likely for creature to have arm.,1.0,0.87
+high,boy,has,two arms,It is likely for boy to have two arms.,1.0,0.65
+high,boy,has,two legs,It is likely for boy to have two legs.,1.0,0.54
+high,boy,has,a torso,It is likely for boy to have a torso.,1.0,0.66
+mid,pillow,has,arm,It is NOT likely for pillow to have arm.,1.0,0.9
+mid,book,has,arm,It is NOT likely for book to have arm.,1.0,0.95
+mid,cat,has,arm,It is NOT likely for cat to have arm.,1.0,0.94
+mid,apple,has,arm,It is NOT likely for apple to have arm.,0.0,0.73
+mid,ground,has,arm,It is NOT likely for ground to have arm.,1.0,0.95
+mid,boy,has,girl,It is NOT likely for boy to have girl.,0.0,0.89
+mid,boy,has,woman,It is NOT likely for boy to have woman.,1.0,0.95
+mid,boy,has,man,It is NOT likely for boy to have man.,0.0,0.79
+mid,boy,has,child,It is NOT likely for boy to have child.,0.0,0.8
+mid,boy,has,baby,It is NOT likely for boy to have baby.,0.0,0.84
+high,house,has,door,It is likely for house to have door.,1.0,0.95
+high,car,has,door,It is likely for car to have door.,0.0,0.9
+high,bus,has,door,It is likely for bus to have door.,1.0,0.68
+high,train,has,door,It is likely for train to have door.,1.0,0.57
+high,building,has,door,It is likely for building to have door.,1.0,0.6
+high,train,has,the cars,It is likely for train to have the cars.,1.0,0.8
+high,train,has,the tracks,It is likely for train to have the tracks.,1.0,0.95
+high,train,has,the wheels,It is likely for train to have the wheels.,1.0,0.51
+high,train,has,the passengers,It is likely for train to have the passengers.,1.0,0.94
+mid,car,has,door,It is NOT likely for car to have door.,0.0,0.95
+mid,house,has,door,It is NOT likely for house to have door.,0.0,0.95
+mid,computer,has,door,It is NOT likely for computer to have door.,0.0,0.92
+mid,phone,has,door,It is NOT likely for phone to have door.,0.0,0.53
+mid,book,has,door,It is NOT likely for book to have door.,0.0,0.76
+mid,train,has,people,It is NOT likely for train to have people.,0.0,0.93
+mid,train,has,animal,It is NOT likely for train to have animal.,0.0,0.53
+mid,train,has,box,It is NOT likely for train to have box.,1.0,0.61
+mid,train,has,bag,It is NOT likely for train to have bag.,0.0,0.75
+mid,train,has,tree,It is NOT likely for train to have tree.,1.0,0.74
+high,person,has,ear,It is likely for person to have ear.,1.0,0.69
+high,animal,has,ear,It is likely for animal to have ear.,1.0,0.95
+high,phone,has,ear,It is likely for phone to have ear.,1.0,0.51
+high,computer,has,ear,It is likely for computer to have ear.,1.0,0.95
+high,machine,has,ear,It is likely for machine to have ear.,0.0,0.95
+high,cow,has,it has hooves,It is likely for cow to have it has hooves.,1.0,0.54
+high,cow,has,a tail,It is likely for cow to have a tail.,1.0,0.56
+high,cow,has,and two horns,It is likely for cow to have and two horns.,1.0,0.95
+mid,eye,has,ear,It is NOT likely for eye to have ear.,1.0,0.95
+mid,nose,has,ear,It is NOT likely for nose to have ear.,1.0,0.69
+mid,mouth,has,ear,It is NOT likely for mouth to have ear.,1.0,0.95
+mid,tongue,has,ear,It is NOT likely for tongue to have ear.,1.0,0.95
+mid,finger,has,ear,It is NOT likely for finger to have ear.,1.0,0.51
+mid,cow,has,chicken,It is NOT likely for cow to have chicken.,1.0,0.95
+mid,cow,has,duck,It is NOT likely for cow to have duck.,0.0,0.53
+mid,cow,has,goose,It is NOT likely for cow to have goose.,0.0,0.84
+mid,cow,has,turkey,It is NOT likely for cow to have turkey.,0.0,0.9
+mid,cow,has,bird,It is NOT likely for cow to have bird.,0.0,0.95
+high,face,has,hair,It is likely for face to have hair.,1.0,0.71
+high,scalp,has,hair,It is likely for scalp to have hair.,0.0,0.77
+high,animal,has,hair,It is likely for animal to have hair.,1.0,0.92
+high,person,has,hair,It is likely for person to have hair.,0.0,0.64
+high,arm,has,muscle,It is likely for arm to have muscle.,1.0,0.95
+high,arm,has,bone,It is likely for arm to have bone.,1.0,0.91
+high,arm,has,blood vessels,It is likely for arm to have blood vessels.,0.0,0.94
+high,arm,has,nerves,It is likely for arm to have nerves.,0.0,0.59
+high,arm,has,skin,It is likely for arm to have skin.,1.0,0.6
+mid,plant,has,hair,It is NOT likely for plant to have hair.,1.0,0.57
+mid,animal,has,hair,It is NOT likely for animal to have hair.,0.0,0.8
+mid,mineral,has,hair,It is NOT likely for mineral to have hair.,1.0,0.95
+mid,toy,has,hair,It is NOT likely for toy to have hair.,0.0,0.95
+mid,furniture,has,hair,It is NOT likely for furniture to have hair.,1.0,0.77
+mid,arm,has,mouth,It is NOT likely for arm to have mouth.,1.0,0.61
+mid,arm,has,nose,It is NOT likely for arm to have nose.,0.0,0.75
+mid,arm,has,eye,It is NOT likely for arm to have eye.,0.0,0.76
+mid,arm,has,ear,It is NOT likely for arm to have ear.,0.0,0.66
+mid,arm,has,hair,It is NOT likely for arm to have hair.,1.0,0.95
+high,human,has,finger,It is likely for human to have finger.,1.0,0.57
+high,animal,has,finger,It is likely for animal to have finger.,0.0,0.5
+high,toy,has,finger,It is likely for toy to have finger.,1.0,0.94
+high,baby,has,finger,It is likely for baby to have finger.,1.0,0.66
+high,mannequin,has,finger,It is likely for mannequin to have finger.,0.0,0.92
+high,woman,has,train,It is likely for woman to have train.,1.0,0.6
+high,woman,has,building,It is likely for woman to have building.,0.0,0.55
+high,woman,has,house,It is likely for woman to have house.,1.0,0.91
+high,woman,has,car,It is likely for woman to have car.,1.0,0.95
+high,woman,has,bus,It is likely for woman to have bus.,1.0,0.71
+mid,cat,has,finger,It is NOT likely for cat to have finger.,1.0,0.86
+mid,dog,has,finger,It is NOT likely for dog to have finger.,1.0,0.51
+mid,tree,has,finger,It is NOT likely for tree to have finger.,1.0,0.63
+mid,flower,has,finger,It is NOT likely for flower to have finger.,1.0,0.93
+mid,house,has,finger,It is NOT likely for house to have finger.,1.0,0.66
+mid,woman,has,money,It is NOT likely for woman to have money.,1.0,0.95
+mid,woman,has,pencil,It is NOT likely for woman to have pencil.,0.0,0.9
+mid,woman,has,paper,It is NOT likely for woman to have paper.,0.0,0.89
+mid,woman,has,book,It is NOT likely for woman to have book.,0.0,0.95
+mid,woman,has,computer,It is NOT likely for woman to have computer.,1.0,0.88
+high,cat,has,tail,It is likely for cat to have tail.,1.0,0.95
+high,dog,has,tail,It is likely for dog to have tail.,1.0,0.6
+high,rabbit,has,tail,It is likely for rabbit to have tail.,1.0,0.6
+high,mouse,has,tail,It is likely for mouse to have tail.,0.0,0.6
+high,lizard,has,tail,It is likely for lizard to have tail.,1.0,0.66
+high,elephant,has,tusks,It is likely for elephant to have tusks.,1.0,0.95
+high,elephant,has,trunk,It is likely for elephant to have trunk.,1.0,0.95
+high,elephant,has,big ears,It is likely for elephant to have big ears.,0.0,0.55
+high,elephant,has,big feet,It is likely for elephant to have big feet.,0.0,0.78
+high,elephant,has,big body,It is likely for elephant to have big body.,1.0,0.95
+mid,airplane,has,tail,It is NOT likely for airplane to have tail.,1.0,0.9
+mid,car,has,tail,It is NOT likely for car to have tail.,1.0,0.93
+mid,chair,has,tail,It is NOT likely for chair to have tail.,1.0,0.59
+mid,desk,has,tail,It is NOT likely for desk to have tail.,1.0,0.53
+mid,elephant,has,cat,It is NOT likely for elephant to have cat.,0.0,0.53
+mid,elephant,has,rat,It is NOT likely for elephant to have rat.,1.0,0.59
+mid,elephant,has,snake,It is NOT likely for elephant to have snake.,1.0,0.79
+mid,elephant,has,chicken,It is NOT likely for elephant to have chicken.,1.0,0.95
+mid,elephant,has,bird,It is NOT likely for elephant to have bird.,1.0,0.95
+high,hair,on,face,It is likely to see hair on face.,0.0,0.73
+high,eyes,on,face,It is likely to see eyes on face.,1.0,0.8
+high,nose,on,face,It is likely to see nose on face.,1.0,0.79
+high,mouth,on,face,It is likely to see mouth on face.,0.0,0.54
+high,ears,on,face,It is likely to see ears on face.,1.0,0.57
+high,hair,on,person,It is likely to see hair on person.,1.0,0.95
+high,hair,on,animal,It is likely to see hair on animal.,1.0,0.66
+high,hair,on,doll,It is likely to see hair on doll.,1.0,0.61
+high,hair,on,toy,It is likely to see hair on toy.,1.0,0.61
+high,hair,on,statue,It is likely to see hair on statue.,1.0,0.63
+mid,eye,on,face,It is NOT likely to see eye on face.,1.0,0.54
+mid,mouth,on,face,It is NOT likely to see mouth on face.,1.0,0.54
+mid,nose,on,face,It is NOT likely to see nose on face.,0.0,0.95
+mid,ear,on,face,It is NOT likely to see ear on face.,1.0,0.95
+mid,hair,on,face,It is NOT likely to see hair on face.,0.0,0.95
+mid,hair,on,elbow,It is NOT likely to see hair on elbow.,1.0,0.6
+mid,hair,on,shoulder,It is NOT likely to see hair on shoulder.,0.0,0.95
+mid,hair,on,knuckle,It is NOT likely to see hair on knuckle.,1.0,0.76
+mid,hair,on,knee,It is NOT likely to see hair on knee.,1.0,0.71
+mid,hair,on,ankle,It is NOT likely to see hair on ankle.,1.0,0.6
+high,train,on,person,It is likely to see train on person.,1.0,0.6
+high,sidewalk,on,person,It is likely to see sidewalk on person.,0.0,0.53
+high,track,on,person,It is likely to see track on person.,0.0,0.71
+high,street,on,person,It is likely to see street on person.,1.0,0.6
+high,building,on,person,It is likely to see building on person.,1.0,0.95
+high,jacket,on,person,It is likely to see jacket on person.,1.0,0.72
+high,jacket,on,child,It is likely to see jacket on child.,0.0,0.6
+high,jacket,on,man,It is likely to see jacket on man.,0.0,0.53
+high,jacket,on,woman,It is likely to see jacket on woman.,1.0,0.95
+high,jacket,on,baby,It is likely to see jacket on baby.,0.0,0.61
+mid,stone,on,person,It is NOT likely to see stone on person.,1.0,0.54
+mid,paper,on,person,It is NOT likely to see paper on person.,1.0,0.54
+mid,book,on,person,It is NOT likely to see book on person.,0.0,0.56
+mid,water,on,person,It is NOT likely to see water on person.,1.0,0.6
+mid,air,on,person,It is NOT likely to see air on person.,0.0,0.95
+mid,jacket,on,person,It is NOT likely to see jacket on person.,1.0,0.65
+mid,jacket,on,animal,It is NOT likely to see jacket on animal.,0.0,0.95
+mid,jacket,on,chair,It is NOT likely to see jacket on chair.,1.0,0.95
+mid,jacket,on,ground,It is NOT likely to see jacket on ground.,0.0,0.53
+high,home,on,man,It is likely to see home on man.,1.0,0.65
+high,work,on,man,It is likely to see work on man.,1.0,0.6
+high,school,on,man,It is likely to see school on man.,1.0,0.61
+high,hospital,on,man,It is likely to see hospital on man.,1.0,0.51
+high,church,on,man,It is likely to see church on man.,1.0,0.61
+high,shirt,on,person,It is likely to see shirt on person.,1.0,0.59
+high,shirt,on,child,It is likely to see shirt on child.,1.0,0.95
+high,shirt,on,baby,It is likely to see shirt on baby.,1.0,0.63
+high,shirt,on,man,It is likely to see shirt on man.,1.0,0.77
+high,shirt,on,woman,It is likely to see shirt on woman.,1.0,0.63
+mid,bird,on,man,It is NOT likely to see bird on man.,1.0,0.63
+mid,fish,on,man,It is NOT likely to see fish on man.,1.0,0.61
+mid,airplane,on,man,It is NOT likely to see airplane on man.,0.0,0.95
+mid,banana,on,man,It is NOT likely to see banana on man.,0.0,0.51
+mid,computer,on,man,It is NOT likely to see computer on man.,1.0,0.66
+mid,shirt,on,pants,It is NOT likely to see shirt on pants.,1.0,0.59
+mid,shirt,on,shoes,It is NOT likely to see shirt on shoes.,1.0,0.57
+mid,shirt,on,socks,It is NOT likely to see shirt on socks.,0.0,0.59
+mid,shirt,on,belt,It is NOT likely to see shirt on belt.,1.0,0.95
+mid,shirt,on,tie,It is NOT likely to see shirt on tie.,0.0,0.53
+high,dress,on,woman,It is likely to see dress on woman.,0.0,0.53
+high,suit,on,woman,It is likely to see suit on woman.,0.0,0.55
+high,skirt,on,woman,It is likely to see skirt on woman.,1.0,0.71
+high,blouse,on,woman,It is likely to see blouse on woman.,0.0,0.87
+high,high heels,on,woman,It is likely to see high heels on woman.,1.0,0.95
+mid,Man,on,woman,It is NOT likely to see Man on woman.,0.0,0.81
+mid,animal,on,woman,It is NOT likely to see animal on woman.,0.0,0.95
+mid,plant,on,woman,It is NOT likely to see plant on woman.,0.0,0.95
+mid,mineral,on,woman,It is NOT likely to see mineral on woman.,1.0,0.95
+mid,object,on,woman,It is NOT likely to see object on woman.,1.0,0.59
+mid,shirt,on,bird,It is NOT likely to see shirt on bird.,1.0,0.95
+mid,shirt,on,banana,It is NOT likely to see shirt on banana.,1.0,0.54
+mid,shirt,on,airplane,It is NOT likely to see shirt on airplane.,1.0,0.95
+mid,shirt,on,computer,It is NOT likely to see shirt on computer.,0.0,0.95
+mid,shirt,on,fork,It is NOT likely to see shirt on fork.,1.0,0.51
+high,dish,on,plate,It is likely to see dish on plate.,1.0,0.95
+high,food,on,plate,It is likely to see food on plate.,1.0,0.56
+high,utensil,on,plate,It is likely to see utensil on plate.,1.0,0.95
+high,table,on,plate,It is likely to see table on plate.,1.0,0.9
+high,chair,on,plate,It is likely to see chair on plate.,0.0,0.55
+high,leaf,on,oak,It is likely to see leaf on oak.,0.0,0.64
+high,leaf,on,maple,It is likely to see leaf on maple.,1.0,0.54
+high,leaf,on,elm,It is likely to see leaf on elm.,0.0,0.51
+high,leaf,on,birch,It is likely to see leaf on birch.,1.0,0.58
+high,leaf,on,pine,It is likely to see leaf on pine.,0.0,0.52
+mid,hat,on,plate,It is NOT likely to see hat on plate.,1.0,0.94
+mid,drawer,on,plate,It is NOT likely to see drawer on plate.,1.0,0.63
+mid,vase,on,plate,It is NOT likely to see vase on plate.,1.0,0.54
+mid,basket,on,plate,It is NOT likely to see basket on plate.,1.0,0.95
+mid,leaf,on,wall,It is NOT likely to see leaf on wall.,0.0,0.73
+mid,leaf,on,paper,It is NOT likely to see leaf on paper.,1.0,0.93
+mid,leaf,on,ceiling,It is NOT likely to see leaf on ceiling.,1.0,0.95
+mid,leaf,on,floor,It is NOT likely to see leaf on floor.,1.0,0.72
+mid,leaf,on,furniture,It is NOT likely to see leaf on furniture.,1.0,0.54
+mid,window,on,person,It is NOT likely to see window on person.,0.0,0.55
+mid,box,on,person,It is NOT likely to see box on person.,1.0,0.6
+mid,vase,on,person,It is NOT likely to see vase on person.,1.0,0.95
+mid,basket,on,person,It is NOT likely to see basket on person.,1.0,0.65
+high,grass,on,hill,It is likely to see grass on hill.,0.0,0.92
+high,trees,on,hill,It is likely to see trees on hill.,0.0,0.55
+high,dirt,on,hill,It is likely to see dirt on hill.,0.0,0.87
+high,rocks,on,hill,It is likely to see rocks on hill.,0.0,0.6
+high,flowers,on,hill,It is likely to see flowers on hill.,0.0,0.51
+high,snow,on,ground,It is likely to see snow on ground.,1.0,0.61
+high,snow,on,mountain,It is likely to see snow on mountain.,1.0,0.9
+high,snow,on,car,It is likely to see snow on car.,1.0,0.6
+high,snow,on,tree,It is likely to see snow on tree.,1.0,0.95
+high,snow,on,house,It is likely to see snow on house.,1.0,0.95
+mid,sky,on,hill,It is NOT likely to see sky on hill.,0.0,0.94
+mid,house,on,hill,It is NOT likely to see house on hill.,0.0,0.95
+mid,furniture,on,hill,It is NOT likely to see furniture on hill.,1.0,0.95
+mid,book,on,hill,It is NOT likely to see book on hill.,1.0,0.54
+mid,person,on,hill,It is NOT likely to see person on hill.,1.0,0.6
+mid,snow,on,house,It is NOT likely to see snow on house.,1.0,0.51
+mid,snow,on,person,It is NOT likely to see snow on person.,1.0,0.95
+mid,snow,on,car,It is NOT likely to see snow on car.,1.0,0.71
+mid,snow,on,truck,It is NOT likely to see snow on truck.,1.0,0.6
+mid,snow,on,airplane,It is NOT likely to see snow on airplane.,0.0,0.55
+high,light,on,pole,It is likely to see light on pole.,0.0,0.95
+high,sign,on,pole,It is likely to see sign on pole.,1.0,0.54
+high,flag,on,pole,It is likely to see flag on pole.,1.0,0.95
+high,wire,on,pole,It is likely to see wire on pole.,0.0,0.79
+high,plant,on,pole,It is likely to see plant on pole.,1.0,0.56
+high,letter,on,train,It is likely to see letter on train.,1.0,0.6
+high,letter,on,sidewalk,It is likely to see letter on sidewalk.,1.0,0.71
+high,letter,on,track,It is likely to see letter on track.,1.0,0.95
+high,letter,on,street,It is likely to see letter on street.,0.0,0.9
+high,letter,on,building,It is likely to see letter on building.,1.0,0.95
+mid,shoes,on,pole,It is NOT likely to see shoes on pole.,1.0,0.95
+mid,pants,on,pole,It is NOT likely to see pants on pole.,0.0,0.61
+mid,shirt,on,pole,It is NOT likely to see shirt on pole.,0.0,0.95
+mid,dress,on,pole,It is NOT likely to see dress on pole.,0.0,0.95
+mid,letter,on,window,It is NOT likely to see letter on window.,0.0,0.84
+mid,letter,on,people,It is NOT likely to see letter on people.,1.0,0.74
+mid,letter,on,rock,It is NOT likely to see letter on rock.,1.0,0.95
+mid,letter,on,tree,It is NOT likely to see letter on tree.,1.0,0.92
+mid,letter,on,jacket,It is NOT likely to see letter on jacket.,0.0,0.95
+high,branches,on,tree,It is likely to see branches on tree.,0.0,0.61
+high,leaves,on,tree,It is likely to see leaves on tree.,1.0,0.8
+high,trunk,on,tree,It is likely to see trunk on tree.,0.0,0.95
+high,bark,on,tree,It is likely to see bark on tree.,0.0,0.83
+high,sap,on,tree,It is likely to see sap on tree.,0.0,0.66
+mid,flower,on,tree,It is NOT likely to see flower on tree.,0.0,0.83
+mid,bird,on,tree,It is NOT likely to see bird on tree.,0.0,0.52
+mid,person,on,tree,It is NOT likely to see person on tree.,1.0,0.6
+mid,house,on,tree,It is NOT likely to see house on tree.,1.0,0.84
+mid,car,on,tree,It is NOT likely to see car on tree.,1.0,0.51
+mid,leaf,on,flower,It is NOT likely to see leaf on flower.,1.0,0.71
+mid,leaf,on,stone,It is NOT likely to see leaf on stone.,1.0,0.95
+mid,leaf,on,book,It is NOT likely to see leaf on book.,1.0,0.95
+mid,leaf,on,person,It is NOT likely to see leaf on person.,1.0,0.57
+high,lamp,with,light,It is likely to see lamp with light.,1.0,0.54
+high,flashlight,with,light,It is likely to see flashlight with light.,1.0,0.72
+high,street light,with,light,It is likely to see streetlight with light.,1.0,0.54
+high,car headlight,with,light,It is likely to see car headlight with light.,1.0,0.56
+high,light bulb,with,light,It is likely to see light bulb with light.,1.0,0.95
+high,building,with,sidewalk,It is likely to see building with sidewalk.,1.0,0.95
+high,building,with,track,It is likely to see building with track.,0.0,0.83
+high,building,with,street,It is likely to see building with street.,1.0,0.95
+high,building,with,number,It is likely to see building with number.,1.0,0.91
+high,building,with,window,It is likely to see building with window.,1.0,0.95
+mid,dark,with,light,It is NOT likely to see dark with light.,1.0,0.63
+mid,invisible,with,light,It is NOT likely to see invisible with light.,1.0,0.58
+mid,blind,with,light,It is NOT likely to see blind with light.,0.0,0.95
+mid,night,with,light,It is NOT likely to see night with light.,1.0,0.95
+mid,lamp,with,light,It is NOT likely to see lamp with light.,0.0,0.53
+mid,building,with,hat,It is NOT likely to see building with hat.,0.0,0.95
+mid,building,with,car,It is NOT likely to see building with car.,0.0,0.94
+mid,building,with,train,It is NOT likely to see building with train.,0.0,0.51
+mid,building,with,mountain,It is NOT likely to see building with mountain.,1.0,0.6
+mid,building,with,river,It is NOT likely to see building with river.,1.0,0.95
+high,envelope,with,letter,It is likely to see envelope with letter.,0.0,0.69
+high,card,with,letter,It is likely to see card with letter.,1.0,0.95
+high,paper,with,letter,It is likely to see paper with letter.,1.0,0.6
+high,letter,with,letter,It is likely to see letter with letter.,1.0,0.61
+high,email,with,letter,It is likely to see email with letter.,1.0,0.95
+high,sign,with,stop,It is likely to see sign with stop.,1.0,0.95
+high,sign,with,yield,It is likely to see sign with yield.,1.0,0.72
+high,sign,with,do not enter,It is likely to see sign with do not enter.,0.0,0.5
+high,sign,with,one way,It is likely to see sign with one way.,1.0,0.57
+high,sign,with,no parking,It is likely to see sign with no parking.,1.0,0.88
+mid,number,with,letter,It is NOT likely to see number with letter.,0.0,0.95
+mid,window,with,letter,It is NOT likely to see window with letter.,0.0,0.63
+mid,people,with,letter,It is NOT likely to see people with letter.,0.0,0.95
+mid,rock,with,letter,It is NOT likely to see rock with letter.,0.0,0.95
+mid,tree,with,letter,It is NOT likely to see tree with letter.,0.0,0.55
+mid,sign,with,plus,It is NOT likely to see sign with plus.,1.0,0.6
+mid,sign,with,minus,It is NOT likely to see sign with minus.,0.0,0.88
+mid,sign,with,equals,It is NOT likely to see sign with equals.,1.0,0.63
+mid,sign,with,question mark,It is NOT likely to see sign with question mark.,0.0,0.51
+mid,sign,with,exclamation mark,It is NOT likely to see sign with exclamation mark.,1.0,0.74
+high,fruit,with,vegetable,It is likely to see fruit with vegetable.,1.0,0.72
+high,meat,with,vegetable,It is likely to see meat with vegetable.,1.0,0.72
+high,chicken,with,vegetable,It is likely to see chicken with vegetable.,1.0,0.79
+high,rice,with,vegetable,It is likely to see rice with vegetable.,0.0,0.77
+high,pasta,with,vegetable,It is likely to see pasta with vegetable.,1.0,0.75
+high,plate,with,food,It is likely to see plate with food.,1.0,0.95
+high,plate,with,drink,It is likely to see plate with drink.,1.0,0.95
+high,plate,with,utensil,It is likely to see plate with utensil.,1.0,0.95
+high,plate,with,table,It is likely to see plate with table.,1.0,0.58
+high,plate,with,furniture,It is likely to see plate with furniture.,0.0,0.94
+mid,meat,with,vegetable,It is NOT likely to see meat with vegetable.,0.0,0.95
+mid,fruit,with,vegetable,It is NOT likely to see fruit with vegetable.,1.0,0.61
+mid,cereal,with,vegetable,It is NOT likely to see cereal with vegetable.,1.0,0.6
+mid,milk,with,vegetable,It is NOT likely to see milk with vegetable.,1.0,0.95
+mid,egg,with,vegetable,It is NOT likely to see egg with vegetable.,1.0,0.95
+mid,plate,with,window,It is NOT likely to see plate with window.,1.0,0.95
+mid,plate,with,table,It is NOT likely to see plate with table.,1.0,0.86
+mid,plate,with,hat,It is NOT likely to see plate with hat.,1.0,0.71
+mid,plate,with,book,It is NOT likely to see plate with book.,1.0,0.93
+mid,plate,with,pencil,It is NOT likely to see plate with pencil.,1.0,0.76
+high,food,with,knife,It is likely to see food with knife.,1.0,0.57
+high,food,with,fork,It is likely to see food with fork.,1.0,0.95
+high,food,with,chopsticks,It is likely to see food with chopsticks.,0.0,0.66
+high,food,with,spoon,It is likely to see food with spoon.,0.0,0.95
+high,food,with,plate,It is likely to see food with plate.,1.0,0.55
+mid,chicken,with,vegetable,It is NOT likely to see chicken with vegetable.,1.0,0.95
+mid,beef,with,vegetable,It is NOT likely to see beef with vegetable.,0.0,0.81
+mid,pork,with,vegetable,It is NOT likely to see pork with vegetable.,1.0,0.95
+mid,fish,with,vegetable,It is NOT likely to see fish with vegetable.,1.0,0.95
+mid,food,with,knife,It is NOT likely to see food with knife.,1.0,0.95
+mid,food,with,fork,It is NOT likely to see food with fork.,1.0,0.63
+mid,food,with,spoon,It is NOT likely to see food with spoon.,0.0,0.53
+mid,food,with,chopsticks,It is NOT likely to see food with chopsticks.,1.0,0.95
+mid,food,with,plate,It is NOT likely to see food with plate.,1.0,0.95
+high,stop,with,sign,It is likely to see stop with sign.,1.0,0.95
+high,danger,with,sign,It is likely to see danger with sign.,0.0,0.69
+high,yield,with,sign,It is likely to see yield with sign.,1.0,0.6
+high,exit,with,sign,It is likely to see exit with sign.,1.0,0.95
+high,no parking,with,sign,It is likely to see no parking with sign.,1.0,0.95
+high,pole,with,sign,It is likely to see pole with sign.,0.0,0.74
+high,pole,with,light,It is likely to see pole with light.,1.0,0.95
+high,pole,with,wire,It is likely to see pole with wire.,0.0,0.53
+high,pole,with,plant,It is likely to see pole with plant.,1.0,0.69
+mid,board,with,sign,It is NOT likely to see board with sign.,0.0,0.53
+mid,pen,with,sign,It is NOT likely to see pen with sign.,0.0,0.95
+mid,table,with,sign,It is NOT likely to see table with sign.,1.0,0.95
+mid,paper,with,sign,It is NOT likely to see paper with sign.,1.0,0.79
+mid,book,with,sign,It is NOT likely to see book with sign.,1.0,0.71
+mid,pole,with,Usually,It is NOT likely to see pole with Usually.,0.0,0.64
+mid,pole,with,window,It is NOT likely to see pole with window.,0.0,0.88
+mid,pole,with,curtain,It is NOT likely to see pole with curtain.,0.0,0.74
+mid,pole,with,rope,It is NOT likely to see pole with rope.,0.0,0.95
+mid,pole,with,door,It is NOT likely to see pole with door.,0.0,0.53
+mid,pole,with,table,It is NOT likely to see pole with table.,1.0,0.61
+high,knife,with,food,It is likely to see knife with food.,1.0,0.57
+high,fork,with,food,It is likely to see fork with food.,1.0,0.95
+high,spoon,with,food,It is likely to see spoon with food.,1.0,0.95
+high,chopsticks,with,food,It is likely to see chopsticks with food.,1.0,0.92
+high,table,with,with a chair,It is likely to see table with a chair.,0.0,0.61
+high,table,with,with a book,It is likely to see table with a book.,1.0,0.63
+high,table,with,with a pen,It is likely to see table with a pen.,0.0,0.6
+high,table,with,with a paper,It is likely to see table with a paper.,1.0,0.6
+high,table,with,with a computer,It is likely to see table with a computer.,1.0,0.6
+mid,water,with,food,It is NOT likely to see water with food.,1.0,0.54
+mid,air,with,food,It is NOT likely to see air with food.,0.0,0.51
+mid,shelter,with,food,It is NOT likely to see shelter with food.,0.0,0.95
+mid,clothing,with,food,It is NOT likely to see clothing with food.,1.0,0.6
+mid,sleep,with,food,It is NOT likely to see sleep with food.,0.0,0.95
+mid,table,with,window,It is NOT likely to see table with window.,0.0,0.95
+mid,table,with,people,It is NOT likely to see table with people.,0.0,0.82
+mid,table,with,book,It is NOT likely to see table with book.,1.0,0.6
+mid,table,with,vase,It is NOT likely to see table with vase.,0.0,0.74
+mid,table,with,box,It is NOT likely to see table with box.,0.0,0.93
+high,tree,with,leaf,It is likely to see tree with leaf.,1.0,0.87
+high,plant,with,leaf,It is likely to see plant with leaf.,1.0,0.95
+high,flower,with,leaf,It is likely to see flower with leaf.,0.0,0.95
+high,bush,with,leaf,It is likely to see bush with leaf.,1.0,0.72
+high,garden,with,leaf,It is likely to see garden with leaf.,0.0,0.6
+mid,meat,with,leaf,It is NOT likely to see meat with leaf.,1.0,0.71
+mid,book,with,leaf,It is NOT likely to see book with leaf.,0.0,0.53
+mid,pencil,with,leaf,It is NOT likely to see pencil with leaf.,1.0,0.57
+mid,computer,with,leaf,It is NOT likely to see computer with leaf.,1.0,0.57
+mid,table,with,cat,It is NOT likely to see table with cat.,1.0,0.59
+mid,table,with,lamp,It is NOT likely to see table with lamp.,1.0,0.95
+mid,table,with,pencil,It is NOT likely to see table with pencil.,0.0,0.52
+mid,table,with,phone,It is NOT likely to see table with phone.,0.0,0.61
+high,library,with,book,It is likely to see library with book.,1.0,0.95
+high,school,with,book,It is likely to see school with book.,1.0,0.51
+high,desk,with,book,It is likely to see desk with book.,1.0,0.91
+high,table,with,book,It is likely to see table with book.,1.0,0.94
+high,bookshelf,with,book,It is likely to see bookshelf with book.,1.0,0.56
+high,shelf,with,window,It is likely to see shelf with window.,1.0,0.6
+high,shelf,with,door,It is likely to see shelf with door.,0.0,0.55
+high,shelf,with,table,It is likely to see shelf with table.,1.0,0.71
+high,shelf,with,counter,It is likely to see shelf with counter.,1.0,0.58
+high,shelf,with,wall,It is likely to see shelf with wall.,1.0,0.94
+mid,pen,with,book,It is NOT likely to see pen with book.,1.0,0.79
+mid,paper,with,book,It is NOT likely to see paper with book.,0.0,0.84
+mid,computer,with,book,It is NOT likely to see computer with book.,0.0,0.53
+mid,phone,with,book,It is NOT likely to see phone with book.,1.0,0.6
+mid,bookcase,with,book,It is NOT likely to see bookcase with book.,1.0,0.95
+mid,shelf,with,window,It is NOT likely to see shelf with window.,1.0,0.95
+mid,shelf,with,people,It is NOT likely to see shelf with people.,1.0,0.95
+mid,shelf,with,rock,It is NOT likely to see shelf with rock.,0.0,0.53
+mid,shelf,with,tree,It is NOT likely to see shelf with tree.,0.0,0.95
+mid,shelf,with,jacket,It is NOT likely to see shelf with jacket.,0.0,0.95
+high,fence,with,house,It is likely to see fence with house.,1.0,0.6
+high,fence,with,garden,It is likely to see fence with garden.,0.0,0.9
+high,fence,with,park,It is likely to see fence with park.,0.0,0.71
+high,fence,with,farm,It is likely to see fence with farm.,1.0,0.95
+high,fence,with,field,It is likely to see fence with field.,0.0,0.67
+mid,blue,with,leaf,It is NOT likely to see blue with leaf.,1.0,0.95
+mid,red,with,leaf,It is NOT likely to see red with leaf.,0.0,0.95
+mid,yellow,with,leaf,It is NOT likely to see yellow with leaf.,0.0,0.92
+mid,orange,with,leaf,It is NOT likely to see orange with leaf.,0.0,0.95
+mid,pink,with,leaf,It is NOT likely to see pink with leaf.,1.0,0.6
+mid,fence,with,door,It is NOT likely to see fence with door.,1.0,0.6
+mid,fence,with,window,It is NOT likely to see fence with window.,1.0,0.63
+mid,fence,with,table,It is NOT likely to see fence with table.,1.0,0.84
+mid,fence,with,chair,It is NOT likely to see fence with chair.,1.0,0.71
+mid,fence,with,wall,It is NOT likely to see fence with wall.,1.0,0.6
+high,man,with,hair,It is likely to see man with hair.,1.0,0.55
+high,woman,with,hair,It is likely to see woman with hair.,0.0,0.55
+high,child,with,hair,It is likely to see child with hair.,1.0,0.79
+high,baby,with,hair,It is likely to see baby with hair.,1.0,0.6
+high,adult,with,hair,It is likely to see adult with hair.,1.0,0.6
+high,people,with,animals,It is likely to see people with animals.,0.0,0.6
+high,people,with,family,It is likely to see people with family.,1.0,0.82
+high,people,with,friends,It is likely to see people with friends.,1.0,0.95
+high,people,with,co-workers,It is likely to see people with co-workers.,1.0,0.95
+high,people,with,pets,It is likely to see people with pets.,1.0,0.95
+high,people,with,alone,It is likely to see people with alone.,1.0,0.54
+mid,horse,with,hair,It is NOT likely to see horse with hair.,1.0,0.71
+mid,carrot,with,hair,It is NOT likely to see carrot with hair.,0.0,0.6
+mid,book,with,hair,It is NOT likely to see book with hair.,1.0,0.83
+mid,pencil,with,hair,It is NOT likely to see pencil with hair.,1.0,0.61
+mid,computer,with,hair,It is NOT likely to see computer with hair.,1.0,0.95
+mid,people,with,animals,It is NOT likely to see people with animals.,1.0,0.54
+mid,people,with,window,It is NOT likely to see people with window.,1.0,0.6
+mid,people,with,number,It is NOT likely to see people with number.,1.0,0.6
+mid,people,with,hat,It is NOT likely to see people with hat.,1.0,0.6
+mid,people,with,drawer,It is NOT likely to see people with drawer.,0.0,0.51
+mid,people,with,vase,It is NOT likely to see people with vase.,1.0,0.95
+high,person,holding,food,It is likely to see person holding food.,1.0,0.79
+high,animal,holding,food,It is likely to see animal holding food.,1.0,0.6
+high,child,holding,food,It is likely to see child holding food.,1.0,0.71
+high,mother,holding,food,It is likely to see mother holding food.,1.0,0.95
+high,father,holding,food,It is likely to see father holding food.,1.0,0.95
+high,hand,holding,ball,It is likely to see hand holding ball.,1.0,0.6
+high,hand,holding,remote,It is likely to see hand holding remote.,1.0,0.91
+high,hand,holding,phone,It is likely to see hand holding phone.,0.0,0.87
+high,hand,holding,book,It is likely to see hand holding book.,1.0,0.71
+high,hand,holding,pencil,It is likely to see hand holding pencil.,1.0,0.63
+mid,table,holding,food,It is NOT likely to see table holding food.,1.0,0.72
+mid,chair,holding,food,It is NOT likely to see chair holding food.,0.0,0.92
+mid,book,holding,food,It is NOT likely to see book holding food.,1.0,0.54
+mid,pen,holding,food,It is NOT likely to see pen holding food.,1.0,0.95
+mid,computer,holding,food,It is NOT likely to see computer holding food.,1.0,0.61
+mid,hand,holding,microphone,It is NOT likely to see hand holding microphone.,0.0,0.95
+mid,hand,holding,pencil,It is NOT likely to see hand holding pencil.,1.0,0.54
+mid,hand,holding,paper,It is NOT likely to see hand holding paper.,1.0,0.54
+mid,hand,holding,book,It is NOT likely to see hand holding book.,0.0,0.51
+mid,hand,holding,remote,It is NOT likely to see hand holding remote.,0.0,0.7
+high,person,holding,handle,It is likely to see person holding handle.,1.0,0.6
+high,child,holding,handle,It is likely to see child holding handle.,1.0,0.54
+high,adult,holding,handle,It is likely to see adult holding handle.,1.0,0.95
+high,mother,holding,handle,It is likely to see mother holding handle.,1.0,0.6
+high,father,holding,handle,It is likely to see father holding handle.,1.0,0.6
+mid,flower,holding,handle,It is NOT likely to see flower holding handle.,0.0,0.73
+mid,door,holding,handle,It is NOT likely to see door holding handle.,1.0,0.6
+mid,car,holding,handle,It is NOT likely to see car holding handle.,1.0,0.54
+mid,table,holding,handle,It is NOT likely to see table holding handle.,1.0,0.6
+mid,cat,holding,handle,It is NOT likely to see cat holding handle.,1.0,0.95
+mid,hand,holding,apple,It is NOT likely to see hand holding apple.,0.0,0.92
+mid,hand,holding,fork,It is NOT likely to see hand holding fork.,1.0,0.6
+mid,hand,holding,cat,It is NOT likely to see hand holding cat.,0.0,0.95
+high,person,holding,arm,It is likely to see person holding arm.,1.0,0.74
+high,animal,holding,arm,It is likely to see animal holding arm.,1.0,0.81
+high,child,holding,arm,It is likely to see child holding arm.,0.0,0.66
+high,baby,holding,arm,It is likely to see baby holding arm.,1.0,0.95
+high,adult,holding,arm,It is likely to see adult holding arm.,1.0,0.6
+mid,cat,holding,arm,It is NOT likely to see cat holding arm.,1.0,0.95
+mid,book,holding,arm,It is NOT likely to see book holding arm.,0.0,0.55
+mid,pencil,holding,arm,It is NOT likely to see pencil holding arm.,1.0,0.6
+mid,paper,holding,arm,It is NOT likely to see paper holding arm.,1.0,0.95
+mid,phone,holding,arm,It is NOT likely to see phone holding arm.,1.0,0.94
+mid,hand,holding,controller,It is NOT likely to see hand holding controller.,1.0,0.95
+high,person,holding,pole,It is likely to see person holding pole.,0.0,0.95
+high,animal,holding,pole,It is likely to see animal holding pole.,1.0,0.95
+high,child,holding,pole,It is likely to see child holding pole.,1.0,0.91
+high,adult,holding,pole,It is likely to see adult holding pole.,1.0,0.65
+high,senior citizen,holding,pole,It is likely to see senior citizen holding pole.,1.0,0.83
+high,man,holding,baby,It is likely to see man holding baby.,1.0,0.95
+high,man,holding,book,It is likely to see man holding book.,0.0,0.95
+high,man,holding,phone,It is likely to see man holding phone.,1.0,0.95
+high,man,holding,remote,It is likely to see man holding remote.,0.0,0.51
+high,man,holding,controller,It is likely to see man holding controller.,1.0,0.59
+mid,baby,holding,pole,It is NOT likely to see baby holding pole.,1.0,0.6
+mid,cat,holding,pole,It is NOT likely to see cat holding pole.,1.0,0.57
+mid,book,holding,pole,It is NOT likely to see book holding pole.,1.0,0.91
+mid,table,holding,pole,It is NOT likely to see table holding pole.,1.0,0.65
+mid,chair,holding,pole,It is NOT likely to see chair holding pole.,1.0,0.6
+mid,man,holding,gun,It is NOT likely to see man holding gun.,0.0,0.63
+mid,man,holding,microphone,It is NOT likely to see man holding microphone.,1.0,0.6
+mid,man,holding,drum,It is NOT likely to see man holding drum.,0.0,0.55
+mid,man,holding,book,It is NOT likely to see man holding book.,1.0,0.6
+mid,man,holding,baby,It is NOT likely to see man holding baby.,0.0,0.68
+high,person,holding,leaf,It is likely to see person holding leaf.,1.0,0.54
+high,animal,holding,leaf,It is likely to see animal holding leaf.,1.0,0.61
+high,tree,holding,leaf,It is likely to see tree holding leaf.,1.0,0.6
+high,wind,holding,leaf,It is likely to see wind holding leaf.,1.0,0.6
+high,rain,holding,leaf,It is likely to see rain holding leaf.,1.0,0.95
+mid,people,holding,leaf,It is NOT likely to see people holding leaf.,1.0,0.87
+mid,animal,holding,leaf,It is NOT likely to see animal holding leaf.,0.0,0.7
+mid,rock,holding,leaf,It is NOT likely to see rock holding leaf.,1.0,0.63
+mid,box,holding,leaf,It is NOT likely to see box holding leaf.,0.0,0.53
+mid,vase,holding,leaf,It is NOT likely to see vase holding leaf.,0.0,0.73
+mid,hand,holding,hammer,It is NOT likely to see hand holding hammer.,0.0,0.92
+mid,hand,holding,baby,It is NOT likely to see hand holding baby.,1.0,0.61
+mid,hand,holding,vase,It is NOT likely to see hand holding vase.,1.0,0.6
+high,person,holding,phone,It is likely to see person holding phone.,1.0,0.95
+high,child,holding,phone,It is likely to see child holding phone.,1.0,0.54
+high,adult,holding,phone,It is likely to see adult holding phone.,1.0,0.95
+high,woman,holding,phone,It is likely to see woman holding phone.,1.0,0.95
+mid,person,holding,phone,It is NOT likely to see person holding phone.,0.0,0.95
+mid,animal,holding,phone,It is NOT likely to see animal holding phone.,0.0,0.94
+mid,baby,holding,phone,It is NOT likely to see baby holding phone.,0.0,0.55
+mid,toy,holding,phone,It is NOT likely to see toy holding phone.,1.0,0.57
+mid,adult,holding,phone,It is NOT likely to see adult holding phone.,1.0,0.6
+mid,hand,holding,keyboard,It is NOT likely to see hand holding keyboard.,1.0,0.95
+mid,hand,holding,mouse,It is NOT likely to see hand holding mouse.,0.0,0.92
+mid,hand,holding,phone,It is NOT likely to see hand holding phone.,0.0,0.95
+high,person,holding,bag,It is likely to see person holding bag.,1.0,0.95
+high,man,holding,bag,It is likely to see man holding bag.,0.0,0.51
+high,woman,holding,bag,It is likely to see woman holding bag.,0.0,0.55
+high,child,holding,bag,It is likely to see child holding bag.,0.0,0.78
+high,baby,holding,bag,It is likely to see baby holding bag.,1.0,0.71
+mid,bird,holding,bag,It is NOT likely to see bird holding bag.,0.0,0.93
+mid,window,holding,bag,It is NOT likely to see window holding bag.,1.0,0.95
+mid,table,holding,bag,It is NOT likely to see table holding bag.,0.0,0.55
+mid,chair,holding,bag,It is NOT likely to see chair holding bag.,0.0,0.55
+mid,car,holding,bag,It is NOT likely to see car holding bag.,0.0,0.53
+mid,hand,holding,drum,It is NOT likely to see hand holding drum.,1.0,0.6
+mid,hand,holding,handle,It is NOT likely to see hand holding handle.,0.0,0.95
+mid,hand,holding,pillow,It is NOT likely to see hand holding pillow.,1.0,0.6
+mid,hand,holding,ball,It is NOT likely to see hand holding ball.,0.0,0.66
+high,arm,holding,phone,It is likely to see arm holding phone.,1.0,0.59
+high,arm,holding,book,It is likely to see arm holding book.,0.0,0.51
+high,arm,holding,remote,It is likely to see arm holding remote.,0.0,0.55
+high,arm,holding,cup,It is likely to see arm holding cup.,1.0,0.95
+high,arm,holding,baby,It is likely to see arm holding baby.,1.0,0.6
+mid,paper,holding,handle,It is NOT likely to see paper holding handle.,1.0,0.67
+mid,computer,holding,handle,It is NOT likely to see computer holding handle.,0.0,0.92
+mid,dog,holding,handle,It is NOT likely to see dog holding handle.,1.0,0.81
+mid,arm,holding,baby,It is NOT likely to see arm holding baby.,0.0,0.68
+mid,arm,holding,cat,It is NOT likely to see arm holding cat.,1.0,0.54
+mid,arm,holding,book,It is NOT likely to see arm holding book.,0.0,0.94
+mid,arm,holding,remote,It is NOT likely to see arm holding remote.,0.0,0.7
+mid,arm,holding,phone,It is NOT likely to see arm holding phone.,1.0,0.57
+high,person,holding,baby,It is likely to see person holding baby.,1.0,0.76
+high,person,holding,book,It is likely to see person holding book.,1.0,0.95
+high,person,holding,pencil,It is likely to see person holding pencil.,0.0,0.75
+high,person,holding,paper,It is likely to see person holding paper.,1.0,0.95
+mid,bird,holding,pole,It is NOT likely to see bird holding pole.,1.0,0.6
+mid,snake,holding,pole,It is NOT likely to see snake holding pole.,0.0,0.55
+mid,rat,holding,pole,It is NOT likely to see rat holding pole.,0.0,0.66
+mid,person,holding,cat,It is NOT likely to see person holding cat.,0.0,0.93
+mid,person,holding,book,It is NOT likely to see person holding book.,1.0,0.71
+mid,person,holding,remote,It is NOT likely to see person holding remote.,0.0,0.94
+mid,person,holding,pillow,It is NOT likely to see person holding pillow.,1.0,0.68
+mid,animal,holding,pole,It is NOT likely to see animal holding pole.,1.0,0.88
+mid,object,holding,pole,It is NOT likely to see object holding pole.,1.0,0.95
+mid,person,holding,pole,It is NOT likely to see person holding pole.,0.0,0.55
+mid,place,holding,pole,It is NOT likely to see place holding pole.,1.0,0.6
+mid,thing,holding,pole,It is NOT likely to see thing holding pole.,0.0,0.95
+high,shoe,used for,running,Shoe is used for running.,1.0,0.95
+high,shoe,used for,walking,Shoe is used for walking.,1.0,0.55
+high,shoe,used for,hiking,Shoe is used for hiking.,1.0,0.95
+high,shoe,used for,climbing,Shoe is used for climbing.,1.0,0.63
+high,shoe,used for,dancing,Shoe is used for dancing.,1.0,0.92
+mid,shoe,used for,window,Shoe is NOT usually used for window.,1.0,0.71
+mid,shoe,used for,drawer,Shoe is NOT usually used for drawer.,1.0,0.95
+mid,shoe,used for,hat,Shoe is NOT usually used for hat.,0.0,0.61
+mid,shoe,used for,vase,Shoe is NOT usually used for vase.,1.0,0.94
+mid,shoe,used for,box,Shoe is NOT usually used for box.,0.0,0.74
+high,shoe,made of,cloth,Shoe can be made of cloth.,1.0,0.95
+high,shoe,made of,leather,Shoe can be made of leather.,1.0,0.75
+high,shoe,made of,rubber,Shoe can be made of rubber.,1.0,0.69
+high,shoe,made of,plastic,Shoe can be made of plastic.,1.0,0.63
+high,shoe,made of,metal,Shoe can be made of metal.,1.0,0.78
+mid,shoe,made of,plastic,Shoe is NOT usually made of plastic.,1.0,0.94
+mid,shoe,made of,metal,Shoe is NOT usually made of metal.,1.0,0.95
+mid,shoe,made of,glass,Shoe is NOT usually made of glass.,1.0,0.72
+mid,shoe,made of,wood,Shoe is NOT usually made of wood.,1.0,0.95
+mid,shoe,made of,stone,Shoe is NOT usually made of stone.,1.0,0.65
+high,shoe,has property,have a sole,Having a sole is a property of shoe.,0.0,0.95
+high,shoe,has property,a heel,Having heel is a property of shoe.,1.0,0.95
+high,shoe,has property,laces,Having laces is a property of shoe.,1.0,0.95
+high,shoe,has property,a tongue,Having tongue is a property of shoe.,1.0,0.95
+high,shoe,has property,an upper,Having upper is a property of shoe.,1.0,0.53
+mid,shoe,has property,being alive,Shoe is NOT likely to be alive.,0.0,0.95
+mid,shoe,has property,being made of metal,Shoe is NOT likely to be made of metal.,1.0,0.77
+mid,shoe,has property,being see-through,Shoe is NOT likely to be see-through.,0.0,0.74
+mid,shoe,has property,being a liquid,Shoe is NOT likely to be liquid.,1.0,0.53
+mid,shoe,has property,being a gas,Shoe is NOT likely to be a gas.,1.0,0.95
+high,sidewalk,used for,footpath,Sidewalk is used for footpath.,1.0,0.56
+high,sidewalk,used for,pavement,Sidewalk is used for pavement.,0.0,0.95
+high,sidewalk,used for,crosswalk,Sidewalk is used for crosswalk.,1.0,0.95
+high,sidewalk,used for,trail,Sidewalk is used for trail.,1.0,0.78
+high,sidewalk,used for,sidewalk,Sidewalk is used for sidewalk.,1.0,0.61
+mid,sidewalk,used for,playing,Sidewalk is NOT usually used for playing.,0.0,0.95
+mid,sidewalk,used for,swimming,Sidewalk is NOT usually used for swimming.,1.0,0.95
+mid,sidewalk,used for,eating,Sidewalk is NOT usually used for eating.,1.0,0.95
+mid,sidewalk,used for,reading,Sidewalk is NOT usually used for reading.,0.0,0.95
+mid,sidewalk,used for,sleeping,Sidewalk is NOT usually used for sleeping.,1.0,0.71
+high,sidewalk,made of,house,Sidewalk can be made of house.,0.0,0.95
+high,sidewalk,made of,apartment,Sidewalk can be made of apartment.,1.0,0.5
+high,sidewalk,made of,office,Sidewalk can be made of office.,0.0,0.9
+high,sidewalk,made of,store,Sidewalk can be made of store.,1.0,0.69
+high,sidewalk,made of,hotel,Sidewalk can be made of hotel.,0.0,0.95
+mid,sidewalk,made of,water,Sidewalk is NOT usually made of water.,0.0,0.95
+mid,sidewalk,made of,sand,Sidewalk is NOT usually made of sand.,1.0,0.81
+mid,sidewalk,made of,air,Sidewalk is NOT usually made of air.,1.0,0.73
+mid,sidewalk,made of,paper,Sidewalk is NOT usually made of paper.,1.0,0.95
+mid,sidewalk,made of,metal,Sidewalk is NOT usually made of metal.,1.0,0.94
+high,sidewalk,has property,it is usually level,Being level is a property of sidewalk.,1.0,0.95
+high,sidewalk,has property,made of concrete,Made-of-concrete is a property of sidewalk.,1.0,0.73
+high,sidewalk,has property,has a curb,Having-a-curb is a property of sidewalk.,1.0,0.95
+high,sidewalk,has property,is smooth,Being smooth is a property of sidewalk.,0.0,0.81
+high,sidewalk,has property,is wide,Being wide is a property of sidewalk.,0.0,0.7
+mid,sidewalk,has property,they are usually level,Sidewalk is NOT likely to be usually level.,1.0,0.95
+mid,sidewalk,has property,smooth,Sidewalk is NOT likely to be smooth.,1.0,0.73
+mid,sidewalk,has property,straight,Sidewalk is NOT likely to be straight.,1.0,0.93
+mid,sidewalk,has property,have a defined edge,Sidewalk is NOT likely to be have a defined edge.,1.0,0.95
+high,tire,used for,car,Tire is used for car.,0.0,0.85
+high,tire,used for,truck,Tire is used for truck.,0.0,0.95
+high,tire,used for,bicycle,Tire is used for bicycle.,1.0,0.87
+high,tire,used for,motorcycle,Tire is used for motorcycle.,1.0,0.95
+high,tire,used for,train,Tire is used for train.,0.0,0.95
+mid,tire,used for,people,Tire is NOT usually used for people.,1.0,0.8
+mid,tire,used for,window,Tire is NOT usually used for window.,1.0,0.78
+mid,tire,used for,vase,Tire is NOT usually used for vase.,1.0,0.51
+mid,tire,used for,hat,Tire is NOT usually used for hat.,1.0,0.89
+mid,tire,used for,box,Tire is NOT usually used for box.,1.0,0.58
+high,tire,made of,truck,Tire can be made of truck.,1.0,0.63
+high,tire,made of,car,Tire can be made of car.,1.0,0.72
+high,tire,made of,bicycle,Tire can be made of bicycle.,0.0,0.95
+high,tire,made of,motorcycle,Tire can be made of motorcycle.,0.0,0.95
+high,tire,made of,bus,Tire can be made of bus.,0.0,0.72
+mid,tire,made of,glass,Tire is NOT usually made of glass.,1.0,0.95
+mid,tire,made of,wood,Tire is NOT usually made of wood.,1.0,0.73
+mid,tire,made of,plastic,Tire is NOT usually made of plastic.,1.0,0.95
+mid,tire,made of,cloth,Tire is NOT usually made of cloth.,1.0,0.95
+mid,tire,made of,paper,Tire is NOT usually made of paper.,1.0,0.58
+high,tire,has property,car,Car is a property of tire.,1.0,0.68
+high,tire,has property,bus,Bus is a property of tire.,1.0,0.94
+high,tire,has property,truck,Truck is a property of tire.,1.0,0.61
+high,tire,has property,bicycle,Bicycle is a property of tire.,1.0,0.9
+high,tire,has property,motorcycle,Motorcycle is a property of tire.,1.0,0.9
+mid,tire,has property,square,Tire is NOT likely to be square.,1.0,0.95
+mid,tire,has property,metal,Tire is NOT likely to be metal.,1.0,0.9
+mid,tire,has property,wood,Tire is NOT likely to be wood.,1.0,0.95
+mid,tire,has property,stone,Tire is NOT likely to be stone.,1.0,0.95
+mid,tire,has property,plastic,Tire is NOT likely to be plastic.,0.0,0.86
+high,arm,used for,lifting,Arm is used for lifting.,1.0,0.95
+high,arm,used for,carrying,Arm is used for carrying.,1.0,0.95
+high,arm,used for,pushing,Arm is used for pushing.,0.0,0.95
+high,arm,used for,pulling,Arm is used for pulling.,1.0,0.94
+high,arm,used for,holding,Arm is used for holding.,0.0,0.77
+mid,arm,used for,hat,Arm is NOT usually used for hat.,1.0,0.56
+mid,arm,used for,drawer,Arm is NOT usually used for drawer.,1.0,0.74
+mid,arm,used for,vase,Arm is NOT usually used for vase.,0.0,0.95
+mid,arm,used for,basket,Arm is NOT usually used for basket.,1.0,0.7
+mid,arm,used for,box,Arm is NOT usually used for box.,1.0,0.91
+high,arm,made of,human,Arm can be made of human.,0.0,0.95
+high,arm,made of,animal,Arm can be made of animal.,0.0,0.95
+high,arm,made of,plastic,Arm can be made of plastic.,0.0,0.95
+high,arm,made of,metal,Arm can be made of metal.,1.0,0.95
+high,arm,made of,wood,Arm can be made of wood.,1.0,0.9
+mid,arm,made of,metal,Arm is NOT usually made of metal.,1.0,0.94
+mid,arm,made of,plastic,Arm is NOT usually made of plastic.,1.0,0.93
+mid,arm,made of,glass,Arm is NOT usually made of glass.,1.0,0.95
+mid,arm,made of,wood,Arm is NOT usually made of wood.,1.0,0.95
+mid,arm,made of,fabric,Arm is NOT usually made of fabric.,1.0,0.94
+high,arm,has property,to bend,Bending is a property of arm.,1.0,0.74
+high,arm,has property,to be strong,Being strong is a property of arm.,1.0,0.95
+high,arm,has property,to be flexible,Being flexible is a property of arm.,1.0,0.91
+high,arm,has property,to grip,Gripping is a property of arm.,1.0,0.94
+mid,arm,has property,number,Arm is NOT likely to be number.,1.0,0.95
+mid,arm,has property,window,Arm is NOT likely to be windowed.,1.0,0.78
+mid,arm,has property,glass,Arm is NOT likely to be glass.,1.0,0.95
+mid,arm,has property,bottle,Arm is NOT likely to be bottle.,1.0,0.73
+mid,arm,has property,box,Arm is NOT likely to be box.,0.0,0.95
+high,windshield,used for,car,Windshield is used for car.,1.0,0.5
+high,windshield,used for,motorcycle,Windshield is used for motorcycle.,0.0,0.95
+high,windshield,used for,bicycle,Windshield is used for bicycle.,0.0,0.95
+high,windshield,used for,train,Windshield is used for train.,1.0,0.95
+high,windshield,used for,bus,Windshield is used for bus.,1.0,0.95
+mid,windshield,used for,door,Windshield is NOT usually used for door.,1.0,0.95
+mid,windshield,used for,table,Windshield is NOT usually used for table.,1.0,0.92
+mid,windshield,used for,cup,Windshield is NOT usually used for cup.,0.0,0.95
+mid,windshield,used for,book,Windshield is NOT usually used for book.,1.0,0.68
+mid,windshield,used for,pencil,Windshield is NOT usually used for pencil.,0.0,0.65
+high,windshield,made of,window,Windshield can be made of window.,0.0,0.95
+high,windshield,made of,door,Windshield can be made of door.,0.0,0.68
+high,windshield,made of,car,Windshield can be made of car.,1.0,0.89
+high,windshield,made of,truck,Windshield can be made of truck.,0.0,0.95
+high,windshield,made of,bus,Windshield can be made of bus.,1.0,0.88
+mid,windshield,made of,cloth,Windshield is NOT usually made of cloth.,1.0,0.95
+mid,windshield,made of,metal,Windshield is NOT usually made of metal.,1.0,0.95
+mid,windshield,made of,plastic,Windshield is NOT usually made of plastic.,1.0,0.57
+mid,windshield,made of,wood,Windshield is NOT usually made of wood.,0.0,0.84
+mid,windshield,made of,stone,Windshield is NOT usually made of stone.,1.0,0.78
+high,windshield,has property,train,Train is a property of windshield.,1.0,0.82
+high,windshield,has property,building,Building is a property of windshield.,1.0,0.95
+high,windshield,has property,house,House is a property of windshield.,0.0,0.95
+high,windshield,has property,car,Car is a property of windshield.,1.0,0.52
+high,windshield,has property,bus,Bus is a property of windshield.,0.0,0.95
+mid,windshield,has property,color,Windshield is NOT likely to have color.,0.0,0.65
+mid,windshield,has property,design,Windshield is NOT likely to have design.,1.0,0.82
+mid,windshield,has property,material,Windshield is NOT likely to have material.,0.0,0.95
+mid,windshield,has property,print,Windshield is NOT likely to have print.,1.0,0.88
+mid,windshield,has property,size,Windshield is NOT likely to have size.,1.0,0.95
