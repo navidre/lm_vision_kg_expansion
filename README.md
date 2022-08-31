@@ -1,5 +1,5 @@
 # symmetry_2022_code
-GPT-3-based QA Commonsense Knowledge Graph Completion
+GPT-3-based QA Commonsense Knowledge Graph Completion. The paper is published in MDPI's Symmetry journal: [Utilizing Language Models to Expand Vision-Based Commonsense Knowledge Graphs](https://www.mdpi.com/2073-8994/14/8/1715).
 
 ## Tutorial
 
@@ -46,3 +46,21 @@ NOTE: As there are two error-prone processes of answer extraction from natural l
             - Incorrect
 7. Once the labeling is done on Amazon mTurk, a manifest file is generated and placed under AWS S3's results folder specified in step 6a. Output manifest file is under <em> manifests/output </em> subfolder. Download the manifest file and place it under the same folder as the JSONL file generated in step 5. Then, open the [manifest processing script](scripts/process_output_manifest.py). This method calculates the acuracy of the results and writes the manifest under <em> </em>.
 8. To plot the output manifest results, you can use [the plotting script](scripts/plot_manifest_results.py). The output is a PDF file saved under the specified work path including the manifest output file.
+
+## Citation
+If you find this project helpful, please consider citing our work.
+
+```
+@Article{rezaei2022expansion,
+AUTHOR = {Rezaei, Navid and Reformat, Marek Z.},
+TITLE = {Utilizing Language Models to Expand Vision-Based Commonsense Knowledge Graphs},
+JOURNAL = {Symmetry},
+VOLUME = {14},
+YEAR = {2022},
+NUMBER = {8},
+ARTICLE-NUMBER = {1715},
+URL = {https://www.mdpi.com/2073-8994/14/8/1715},
+ISSN = {2073-8994},
+DOI = {10.3390/sym14081715}
+}
+```
