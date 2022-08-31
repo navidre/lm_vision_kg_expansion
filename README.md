@@ -63,4 +63,30 @@ URL = {https://www.mdpi.com/2073-8994/14/8/1715},
 ISSN = {2073-8994},
 DOI = {10.3390/sym14081715}
 }
+
+@InProceedings{rezaei2022contextual,
+author="Rezaei, Navid
+and Reformat, Marek Z.
+and Yager, Ronald R.",
+title="Generating Contextual Weighted Commonsense Knowledge Graphs",
+booktitle="Information Processing and Management of Uncertainty in Knowledge-Based Systems",
+year="2022",
+publisher="Springer International Publishing",
+address="Cham",
+pages="593--606",
+isbn="978-3-031-08971-8"
+}
+
+@InProceedings{rezaei2020wpkg,
+author="Rezaei, Navid
+and Reformat, Marek Z.
+and Yager, Ronald R.",
+title="Image-Based World-perceiving Knowledge Graph (WpKG) with Imprecision",
+booktitle="Information Processing and Management of Uncertainty in Knowledge-Based Systems",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="415--428",
+isbn="978-3-030-50146-4"
+}
 ```
