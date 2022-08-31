@@ -1,5 +1,5 @@
 # symmetry_2022_code
-GPT-3-based QA Commonsense Knowledge Graph Completion. The paper is published in MDPI's Symmetry journal: [Utilizing Language Models to Expand Vision-Based Commonsense Knowledge Graphs](https://www.mdpi.com/2073-8994/14/8/1715).
+This work is published in MDPI's Symmetry journal: [Utilizing Language Models to Expand Vision-Based Commonsense Knowledge Graphs](https://www.mdpi.com/2073-8994/14/8/1715).
 
 ## Tutorial
 
